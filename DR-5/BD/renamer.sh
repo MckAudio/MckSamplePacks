@@ -1,0 +1,34 @@
+#!/bin/bash
+
+mv 001.wav 001_Ambient_Kick.wav
+mv 002.wav 002_Bright_Kick.wav
+mv 003.wav 003_Cave_Kick.wav
+mv 004.wav 004_Club_Kick.wav
+mv 005.wav 005_Dance_Kick.wav
+mv 006.wav 006_Dark_Kick.wav
+mv 007.wav 007_Deep_Kick.wav
+mv 008.wav 008_Dig_Kick.wav
+mv 009.wav 009_Dry_Kick.wav
+mv 010.wav 010_Electronic_Kick_1.wav 
+mv 011.wav 011_Electronic_Kick_2.wav 
+mv 012.wav 012_Flop_Kick.wav
+mv 013.wav 013_Gate_Kick_1.wav 
+mv 014.wav 014_Gate_Kick_2.wav 
+mv 015.wav 015_Hall_Kick.wav
+mv 016.wav 016_Hard_Kick.wav
+mv 017.wav 017_House_Kick_1.wav 
+mv 018.wav 018_House_Kick_2.wav 
+mv 019.wav 019_Maple_Kick.wav
+mv 020.wav 020_Mondo_Kick.wav
+mv 021.wav 021_Monster_Kick.wav
+mv 022.wav 022_Muffle_Kick.wav
+mv 023.wav 023_Real_Kick.wav
+mv 024.wav 024_Reverb_Kick.wav
+mv 025.wav 025_Room_Kick.wav
+mv 026.wav 026_Rubber_Kick.wav
+mv 027.wav 027_Soft_Kick_1.wav 
+mv 028.wav 028_Soft_Kick_2.wav 
+mv 029.wav 029_Solid_Kick.wav
+mv 030.wav 030_TR-808_Kick.wav
+mv 031.wav 031_TR-909_Kick.wav
+mv 032.wav 032_Tight_Kick.wav
