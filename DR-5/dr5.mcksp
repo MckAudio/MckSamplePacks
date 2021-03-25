@@ -1,0 +1,1054 @@
+{
+    "name": "DR-5",
+    "picture": "./dr5.png",
+    "sampleRate": 48000,
+    "numBits": 32,
+    "numChannels": 1,
+    "categories": ["BD", "SD", "TOMS", "HATS", "PERC", "FX", "MISC"],
+    "samples": [
+        {
+            "path": "./BD/001_Ambient_Kick.wav",
+            "name": "Ambient Kick",
+            "type": 0,
+            "index": 1
+        },
+        {
+            "path": "./BD/002_Bright_Kick.wav",
+            "name": "Bright Kick",
+            "type": 0,
+            "index": 2
+        },
+        {
+            "path": "./BD/003_Cave_Kick.wav",
+            "name": "Cave Kick",
+            "type": 0,
+            "index": 3
+        },
+        {
+            "path": "./BD/004_Club_Kick.wav",
+            "name": "Club Kick",
+            "type": 0,
+            "index": 4
+        },
+        {
+            "path": "./BD/005_Dance_Kick.wav",
+            "name": "Dance Kick",
+            "type": 0,
+            "index": 5
+        },
+        {
+            "path": "./BD/006_Dark_Kick.wav",
+            "name": "Dark Kick",
+            "type": 0,
+            "index": 6
+        },
+        {
+            "path": "./BD/007_Deep_Kick.wav",
+            "name": "Deep Kick",
+            "type": 0,
+            "index": 7
+        },
+        {
+            "path": "./BD/008_Dig_Kick.wav",
+            "name": "Dig Kick",
+            "type": 0,
+            "index": 8
+        },
+        {
+            "path": "./BD/009_Dry_Kick.wav",
+            "name": "Dry Kick",
+            "type": 0,
+            "index": 9
+        },
+        {
+            "path": "./BD/010_Electronic_Kick_1.wav ",
+            "name": "Electronic Kick 1",
+            "type": 0,
+            "index": 10
+        },
+        {
+            "path": "./BD/011_Electronic_Kick_2.wav ",
+            "name": "Electronic Kick 2",
+            "type": 0,
+            "index": 11
+        },
+        {
+            "path": "./BD/012_Flop_Kick.wav",
+            "name": "Flop Kick",
+            "type": 0,
+            "index": 12
+        },
+        {
+            "path": "./BD/013_Gate_Kick_1.wav ",
+            "name": "Gate Kick 1",
+            "type": 0,
+            "index": 13
+        },
+        {
+            "path": "./BD/014_Gate_Kick_2.wav ",
+            "name": "Gate Kick 2",
+            "type": 0,
+            "index": 14
+        },
+        {
+            "path": "./BD/015_Hall_Kick.wav",
+            "name": "Hall Kick",
+            "type": 0,
+            "index": 15
+        },
+        {
+            "path": "./BD/016_Hard_Kick.wav",
+            "name": "Hard Kick",
+            "type": 0,
+            "index": 16
+        },
+        {
+            "path": "./BD/017_House_Kick_1.wav ",
+            "name": "House Kick 1",
+            "type": 0,
+            "index": 17
+        },
+        {
+            "path": "./BD/018_House_Kick_2.wav ",
+            "name": "House Kick 2",
+            "type": 0,
+            "index": 18
+        },
+        {
+            "path": "./BD/019_Maple_Kick.wav",
+            "name": "Maple Kick",
+            "type": 0,
+            "index": 19
+        },
+        {
+            "path": "./BD/020_Mondo_Kick.wav",
+            "name": "Mondo Kick",
+            "type": 0,
+            "index": 20
+        },
+        {
+            "path": "./BD/021_Monster_Kick.wav",
+            "name": "Monster Kick",
+            "type": 0,
+            "index": 21
+        },
+        {
+            "path": "./BD/022_Muffle_Kick.wav",
+            "name": "Muffle Kick",
+            "type": 0,
+            "index": 22
+        },
+        {
+            "path": "./BD/023_Real_Kick.wav",
+            "name": "Real Kick",
+            "type": 0,
+            "index": 23
+        },
+        {
+            "path": "./BD/024_Reverb_Kick.wav",
+            "name": "Reverb Kick",
+            "type": 0,
+            "index": 24
+        },
+        {
+            "path": "./BD/025_Room_Kick.wav",
+            "name": "Room Kick",
+            "type": 0,
+            "index": 25
+        },
+        {
+            "path": "./BD/026_Rubber_Kick.wav",
+            "name": "Rubber Kick",
+            "type": 0,
+            "index": 26
+        },
+        {
+            "path": "./BD/027_Soft_Kick_1.wav ",
+            "name": "Soft Kick 1",
+            "type": 0,
+            "index": 27
+        },
+        {
+            "path": "./BD/028_Soft_Kick_2.wav ",
+            "name": "Soft Kick 2",
+            "type": 0,
+            "index": 28
+        },
+        {
+            "path": "./BD/029_Solid_Kick.wav",
+            "name": "Solid Kick",
+            "type": 0,
+            "index": 29
+        },
+        {
+            "path": "./BD/030_TR-808_Kick.wav",
+            "name": "TR-808 Kick",
+            "type": 0,
+            "index": 30
+        },
+        {
+            "path": "./BD/031_TR-909_Kick.wav",
+            "name": "TR-909 Kick",
+            "type": 0,
+            "index": 31
+        },
+        {
+            "path": "./BD/032_Tight_Kick.wav",
+            "name": "Tight Kick",
+            "type": 0,
+            "index": 32
+        },
+        {
+            "path": "./SD/001_Acoustic_Snare_1.wav",
+            "name": "Acoustic Snare 1",
+            "type": 1,
+            "index": 1
+        },
+        {
+            "path": "./SD/002_Acoustic_Snare_2.wav",
+            "name": "Acoustic Snare 2",
+            "type": 1,
+            "index": 2
+        },
+        {
+            "path": "./SD/003_Brush_Roll_Snare.wav",
+            "name": "Brush Roll Snare",
+            "type": 1,
+            "index": 3
+        },
+        {
+            "path": "./SD/004_Brush_Slap_Snare_1.wav",
+            "name": "Brush Slap Snare 1",
+            "type": 1,
+            "index": 4
+        },
+        {
+            "path": "./SD/005_Brush_Slap_Snare_2.wav",
+            "name": "Brush Slap Snare 2",
+            "type": 1,
+            "index": 5
+        },
+        {
+            "path": "./SD/006_Brush_Swish_Snare.wav",
+            "name": "Brush Swish Snare",
+            "type": 1,
+            "index": 6
+        },
+        {
+            "path": "./SD/007_Cool_Snare.wav",
+            "name": "Cool Snare",
+            "type": 1,
+            "index": 7
+        },
+        {
+            "path": "./SD/008_Dance_Snare.wav",
+            "name": "Dance Snare",
+            "type": 1,
+            "index": 8
+        },
+        {
+            "path": "./SD/009_Dopin_Snare.wav",
+            "name": "Dopin Snare",
+            "type": 1,
+            "index": 9
+        },
+        {
+            "path": "./SD/010_Double_Snare.wav",
+            "name": "Double Snare",
+            "type": 1,
+            "index": 10
+        },
+        {
+            "path": "./SD/011_Electronic_Snare.wav",
+            "name": "Electronic Snare",
+            "type": 1,
+            "index": 11
+        },
+        {
+            "path": "./SD/012_Fat_Snare.wav",
+            "name": "Fat Snare",
+            "type": 1,
+            "index": 12
+        },
+        {
+            "path": "./SD/013_Grab_Snare.wav",
+            "name": "Grab Snare",
+            "type": 1,
+            "index": 13
+        },
+        {
+            "path": "./SD/014_House_Snare.wav",
+            "name": "House Snare",
+            "type": 1,
+            "index": 14
+        },
+        {
+            "path": "./SD/015_House_Dopin_Snare.wav",
+            "name": "House Dopin Snare",
+            "type": 1,
+            "index": 15
+        },
+        {
+            "path": "./SD/016_Kettle_Snare.wav",
+            "name": "Kettle Snare",
+            "type": 1,
+            "index": 16
+        },
+        {
+            "path": "./SD/017_LA_Snare.wav",
+            "name": "LA Snare",
+            "type": 1,
+            "index": 17
+        },
+        {
+            "path": "./SD/018_Loose_Snare.wav",
+            "name": "Loose Snare",
+            "type": 1,
+            "index": 18
+        },
+        {
+            "path": "./SD/019_Maple_Snare.wav",
+            "name": "Maple Snare",
+            "type": 1,
+            "index": 19
+        },
+        {
+            "path": "./SD/020_Noise_Snare.wav",
+            "name": "Noise Snare",
+            "type": 1,
+            "index": 20
+        },
+        {
+            "path": "./SD/021_Nashville_Snare.wav",
+            "name": "Nashville Snare",
+            "type": 1,
+            "index": 21
+        },
+        {
+            "path": "./SD/022_Piccolo_Snare.wav",
+            "name": "Piccolo Snare",
+            "type": 1,
+            "index": 22
+        },
+        {
+            "path": "./SD/023_Radio_Snare.wav",
+            "name": "Radio Snare",
+            "type": 1,
+            "index": 23
+        },
+        {
+            "path": "./SD/024_Rock_Rim_Shot_Snare.wav",
+            "name": "Rock Rim Shot Snare",
+            "type": 1,
+            "index": 24
+        },
+        {
+            "path": "./SD/025_Real_Snare_1.wav",
+            "name": "Real Snare 1",
+            "type": 1,
+            "index": 25
+        },
+        {
+            "path": "./SD/026_Real_Snare_2.wav",
+            "name": "Real Snare 2",
+            "type": 1,
+            "index": 26
+        },
+        {
+            "path": "./SD/027_Real_Snare_3.wav",
+            "name": "Real Snare 3",
+            "type": 1,
+            "index": 27
+        },
+        {
+            "path": "./SD/028_Reggae_Snare_1.wav",
+            "name": "Reggae Snare 1",
+            "type": 1,
+            "index": 28
+        },
+        {
+            "path": "./SD/029_Reggae_Snare_2.wav",
+            "name": "Reggae Snare 2",
+            "type": 1,
+            "index": 29
+        },
+        {
+            "path": "./SD/030_Ring_Snare.wav",
+            "name": "Ring Snare",
+            "type": 1,
+            "index": 30
+        },
+        {
+            "path": "./SD/031_Room_Gated_Snare.wav",
+            "name": "Room Gated Snare",
+            "type": 1,
+            "index": 31
+        },
+        {
+            "path": "./SD/032_Rock_Snare.wav",
+            "name": "Rock Snare",
+            "type": 1,
+            "index": 32
+        },
+        {
+            "path": "./SD/033_Slam_Snare.wav",
+            "name": "Slam Snare",
+            "type": 1,
+            "index": 33
+        },
+        {
+            "path": "./SD/034_Spout_Snare.wav",
+            "name": "Spout Snare",
+            "type": 1,
+            "index": 34
+        },
+        {
+            "path": "./SD/035_Stick_Snare.wav",
+            "name": "Stick Snare",
+            "type": 1,
+            "index": 35
+        },
+        {
+            "path": "./SD/036_TR-808_Snare.wav",
+            "name": "TR-808 Snare",
+            "type": 1,
+            "index": 36
+        },
+        {
+            "path": "./SD/037_TR-909_Snare.wav",
+            "name": "TR-909 Snare",
+            "type": 1,
+            "index": 37
+        },
+        {
+            "path": "./SD/038_Tight_Snare.wav",
+            "name": "Tight Snare",
+            "type": 1,
+            "index": 38
+        },
+        {
+            "path": "./SD/039_Tiny_Snare.wav",
+            "name": "Tiny Snare",
+            "type": 1,
+            "index": 39
+        },
+        {
+            "path": "./SD/040_Wood_Snare.wav",
+            "name": "Wood Snare",
+            "type": 1,
+            "index": 40
+        },
+        {
+            "path": "./SD/041_Ambient_Side_Stick.wav",
+            "name": "Ambient Side Stick",
+            "type": 1,
+            "index": 41
+        },
+        {
+            "path": "./SD/042_TR-808_Side_Stick.wav",
+            "name": "TR-808 Side Stick",
+            "type": 1,
+            "index": 42
+        },
+        {
+            "path": "./TOMS/001_Ambient_Tom_1.wav",
+            "name": "Ambient Tom 1",
+            "type": 2,
+            "index": 1
+        },
+        {
+            "path": "./TOMS/002_Ambient_Tom_2.wav",
+            "name": "Ambient Tom 2",
+            "type": 2,
+            "index": 2
+        },
+        {
+            "path": "./TOMS/003_Ambient_Tom_3.wav",
+            "name": "Ambient Tom 3",
+            "type": 2,
+            "index": 3
+        },
+        {
+            "path": "./TOMS/004_Ambient_Tom_4.wav",
+            "name": "Ambient Tom 4",
+            "type": 2,
+            "index": 4
+        },
+        {
+            "path": "./TOMS/005_Bend_Tom_1.wav",
+            "name": "Bend Tom 1",
+            "type": 2,
+            "index": 5
+        },
+        {
+            "path": "./TOMS/006_Bend_Tom_2.wav",
+            "name": "Bend Tom 2",
+            "type": 2,
+            "index": 6
+        },
+        {
+            "path": "./TOMS/007_Bend_Tom_3.wav",
+            "name": "Bend Tom 3",
+            "type": 2,
+            "index": 7
+        },
+        {
+            "path": "./TOMS/008_Bend_Tom_4.wav",
+            "name": "Bend Tom 4",
+            "type": 2,
+            "index": 8
+        },
+        {
+            "path": "./TOMS/009_Brush_Tom_1.wav",
+            "name": "Brush Tom 1",
+            "type": 2,
+            "index": 9
+        },
+        {
+            "path": "./TOMS/010_Brush_Tom_2.wav",
+            "name": "Brush Tom 2",
+            "type": 2,
+            "index": 10
+        },
+        {
+            "path": "./TOMS/011_Brush_Tom_3.wav",
+            "name": "Brush Tom 3",
+            "type": 2,
+            "index": 11
+        },
+        {
+            "path": "./TOMS/012_Brush_Tom_4.wav",
+            "name": "Brush Tom 4",
+            "type": 2,
+            "index": 12
+        },
+        {
+            "path": "./TOMS/013_Double_Head_Tom_1.wav",
+            "name": "Double Head Tom 1",
+            "type": 2,
+            "index": 13
+        },
+        {
+            "path": "./TOMS/014_Double_Head_Tom_2.wav",
+            "name": "Double Head Tom 2",
+            "type": 2,
+            "index": 14
+        },
+        {
+            "path": "./TOMS/015_Double_Head_Tom_3.wav",
+            "name": "Double Head Tom 3",
+            "type": 2,
+            "index": 15
+        },
+        {
+            "path": "./TOMS/016_Double_Head_Tom_4.wav",
+            "name": "Double Head Tom 4",
+            "type": 2,
+            "index": 16
+        },
+        {
+            "path": "./TOMS/017_Rim_Tom_1.wav",
+            "name": "Rim Tom 1",
+            "type": 2,
+            "index": 17
+        },
+        {
+            "path": "./TOMS/018_Rim_Tom_2.wav",
+            "name": "Rim Tom 2",
+            "type": 2,
+            "index": 18
+        },
+        {
+            "path": "./TOMS/019_Rim_Tom_3.wav",
+            "name": "Rim Tom 3",
+            "type": 2,
+            "index": 19
+        },
+        {
+            "path": "./TOMS/020_Rim_Tom_4.wav",
+            "name": "Rim Tom 4",
+            "type": 2,
+            "index": 20
+        },
+        {
+            "path": "./TOMS/021_Rock_Tom_1.wav",
+            "name": "Rock Tom 1",
+            "type": 2,
+            "index": 21
+        },
+        {
+            "path": "./TOMS/022_Rock_Tom_2.wav",
+            "name": "Rock Tom 2",
+            "type": 2,
+            "index": 22
+        },
+        {
+            "path": "./TOMS/023_Rock_Tom_3.wav",
+            "name": "Rock Tom 3",
+            "type": 2,
+            "index": 23
+        },
+        {
+            "path": "./TOMS/024_Rock_Tom_4.wav",
+            "name": "Rock Tom 4",
+            "type": 2,
+            "index": 24
+        },
+        {
+            "path": "./TOMS/025_TR_808_Tom_1.wav",
+            "name": "TR-808 Tom 1",
+            "type": 2,
+            "index": 25
+        },
+        {
+            "path": "./TOMS/026_TR_808_Tom_2.wav",
+            "name": "TR-808 Tom 2",
+            "type": 2,
+            "index": 26
+        },
+        {
+            "path": "./HATS/001_Acoustic_Closed_Hi-hat.wav",
+            "name": "Acoustic Closed Hi-hat",
+            "type": 3,
+            "index": 1
+        },
+        {
+            "path": "./HATS/002_Acoustic_Open_Hi-hat.wav",
+            "name": "Acoustic Open Hi-hat",
+            "type": 3,
+            "index": 2
+        },
+        {
+            "path": "./HATS/003_Acoustic_Pedal_Hi-hat.wav",
+            "name": "Acoustic Pedal Hi-hat",
+            "type": 3,
+            "index": 3
+        },
+        {
+            "path": "./HATS/004_Heavy_Closed_Hi-hat.wav",
+            "name": "Heavy Closed Hi-hat",
+            "type": 3,
+            "index": 4
+        },
+        {
+            "path": "./HATS/005_Heavy_Open_Hi-hat.wav",
+            "name": "Heavy Open Hi-hat",
+            "type": 3,
+            "index": 5
+        },
+        {
+            "path": "./HATS/006_Pop_Closed_Hi-hat.wav",
+            "name": "Pop Closed Hi-hat",
+            "type": 3,
+            "index": 6
+        },
+        {
+            "path": "./HATS/007_Pop_Open_Hi-hat.wav",
+            "name": "Pop Open Hi-hat",
+            "type": 3,
+            "index": 7
+        },
+        {
+            "path": "./HATS/008_Pop_Pedal_Hi-hat.wav",
+            "name": "Pop Pedal Hi-hat",
+            "type": 3,
+            "index": 8
+        },
+        {
+            "path": "./HATS/009_TR_808_Closed_Hi-hat.wav",
+            "name": "TR-808 Closed Hi-hat",
+            "type": 3,
+            "index": 9
+        },
+        {
+            "path": "./HATS/010_TR_808_Open_Hi-hat.wav",
+            "name": "TR-808 Open Hi-hat",
+            "type": 3,
+            "index": 10
+        },
+        {
+            "path": "./HATS/011_Crash_Cymbal_1.wav",
+            "name": "Crash Cymbal 1",
+            "type": 3,
+            "index": 11
+        },
+        {
+            "path": "./HATS/012_Crash_Cymbal_2.wav",
+            "name": "Crash Cymbal 2",
+            "type": 3,
+            "index": 12
+        },
+        {
+            "path": "./HATS/013_Ride_Bell_Cymbal.wav",
+            "name": "Ride Bell Cymbal",
+            "type": 3,
+            "index": 13
+        },
+        {
+            "path": "./HATS/014_Ride_Cymbal.wav",
+            "name": "Ride Cymbal",
+            "type": 3,
+            "index": 14
+        },
+        {
+            "path": "./HATS/015_Rock_Ride_Bell_Cymbal.wav",
+            "name": "Rock Ride Bell Cymbal",
+            "type": 3,
+            "index": 15
+        },
+        {
+            "path": "./HATS/016_Rock_Ride_Cymbal.wav",
+            "name": "Rock Ride Cymbal",
+            "type": 3,
+            "index": 16
+        },
+        {
+            "path": "./HATS/017_Splash_Cymbal.wav",
+            "name": "Splash Cymbal",
+            "type": 3,
+            "index": 17
+        },
+        {
+            "path": "./PERC/001_Cowbell.wav",
+            "name": "Cowbell",
+            "type": 4,
+            "index": 1
+        },
+        {
+            "path": "./PERC/002_Tambourine.wav",
+            "name": "Tambourine",
+            "type": 4,
+            "index": 2
+        },
+        {
+            "path": "./PERC/003_Hall_Castanets.wav",
+            "name": "Hall Castanets",
+            "type": 4,
+            "index": 3
+        },
+        {
+            "path": "./PERC/004_Sleigh_Bell.wav",
+            "name": "Sleigh Bell",
+            "type": 4,
+            "index": 4
+        },
+        {
+            "path": "./PERC/005_Triangle_Mute.wav",
+            "name": "Triangle Mute",
+            "type": 4,
+            "index": 5
+        },
+        {
+            "path": "./PERC/006_Triangle_Open.wav",
+            "name": "Triangle Open",
+            "type": 4,
+            "index": 6
+        },
+        {
+            "path": "./PERC/007_Wood_Block.wav",
+            "name": "Wood Block",
+            "type": 4,
+            "index": 7
+        },
+        {
+            "path": "./PERC/008_Bongo_High.wav",
+            "name": "Bongo High",
+            "type": 4,
+            "index": 8
+        },
+        {
+            "path": "./PERC/009_Bongo_Low.wav",
+            "name": "Bongo Low",
+            "type": 4,
+            "index": 9
+        },
+        {
+            "path": "./PERC/010_Conga_High_Mute.wav",
+            "name": "Conga High Mute",
+            "type": 4,
+            "index": 10
+        },
+        {
+            "path": "./PERC/011_Conga_High_Slap.wav",
+            "name": "Conga High Slap",
+            "type": 4,
+            "index": 11
+        },
+        {
+            "path": "./PERC/012_Conga_High_Open.wav",
+            "name": "Conga High Open",
+            "type": 4,
+            "index": 12
+        },
+        {
+            "path": "./PERC/013_Conga_Low_Open.wav",
+            "name": "Conga Low Open",
+            "type": 4,
+            "index": 13
+        },
+        {
+            "path": "./PERC/014_Timbale.wav",
+            "name": "Timbale",
+            "type": 4,
+            "index": 14
+        },
+        {
+            "path": "./PERC/015_Claves.wav",
+            "name": "Claves",
+            "type": 4,
+            "index": 15
+        },
+        {
+            "path": "./PERC/016_Vibra-slap.wav",
+            "name": "Vibra-slap",
+            "type": 4,
+            "index": 16
+        },
+        {
+            "path": "./PERC/017_Guiro_Short.wav",
+            "name": "Guiro Short",
+            "type": 4,
+            "index": 17
+        },
+        {
+            "path": "./PERC/018_Guiro_Long.wav",
+            "name": "Guiro Long",
+            "type": 4,
+            "index": 18
+        },
+        {
+            "path": "./PERC/019_Maracas.wav",
+            "name": "Maracas",
+            "type": 4,
+            "index": 19
+        },
+        {
+            "path": "./PERC/020_Shaker.wav",
+            "name": "Shaker",
+            "type": 4,
+            "index": 20
+        },
+        {
+            "path": "./PERC/021_Cabasa.wav",
+            "name": "Cabasa",
+            "type": 4,
+            "index": 21
+        },
+        {
+            "path": "./PERC/022_Whistle_Short.wav",
+            "name": "Whistle Short",
+            "type": 4,
+            "index": 22
+        },
+        {
+            "path": "./PERC/023_Whistle_Long.wav",
+            "name": "Whistle Long",
+            "type": 4,
+            "index": 23
+        },
+        {
+            "path": "./PERC/024_Agogo.wav",
+            "name": "Agogo",
+            "type": 4,
+            "index": 24
+        },
+        {
+            "path": "./PERC/025_Cuica.wav",
+            "name": "Cuica",
+            "type": 4,
+            "index": 25
+        },
+        {
+            "path": "./PERC/026_Pandiero_Open.wav",
+            "name": "Pandiero Open",
+            "type": 4,
+            "index": 26
+        },
+        {
+            "path": "./PERC/027_Pandiero_Mute.wav",
+            "name": "Pandiero Mute",
+            "type": 4,
+            "index": 27
+        },
+        {
+            "path": "./PERC/028_Surdo_Open.wav",
+            "name": "Surdo Open",
+            "type": 4,
+            "index": 28
+        },
+        {
+            "path": "./PERC/029_Surdo_Mute.wav",
+            "name": "Surdo Mute",
+            "type": 4,
+            "index": 29
+        },
+        {
+            "path": "./PERC/030_Tamborim.wav",
+            "name": "Tamborim",
+            "type": 4,
+            "index": 30
+        },
+        {
+            "path": "./PERC/031_CR-78_Cowbell.wav",
+            "name": "CR-78 Cowbell",
+            "type": 4,
+            "index": 31
+        },
+        {
+            "path": "./PERC/032_CR-78_Metallic_Beat.wav",
+            "name": "CR-78 Metallic Beat",
+            "type": 4,
+            "index": 32
+        },
+        {
+            "path": "./PERC/033_CR-78_Guiro.wav",
+            "name": "CR-78 Guiro",
+            "type": 4,
+            "index": 33
+        },
+        {
+            "path": "./PERC/034_CR-78_Tambourine.wav",
+            "name": "CR-78 Tambourine",
+            "type": 4,
+            "index": 34
+        },
+        {
+            "path": "./PERC/035_TR-808_Clap.wav",
+            "name": "TR-808 Clap",
+            "type": 4,
+            "index": 35
+        },
+        {
+            "path": "./PERC/036_TR-808_Cowbell.wav",
+            "name": "TR-808 Cowbell",
+            "type": 4,
+            "index": 36
+        },
+        {
+            "path": "./PERC/037_TR-808_Conga.wav",
+            "name": "TR-808 Conga",
+            "type": 4,
+            "index": 37
+        },
+        {
+            "path": "./FX/001_Flex.wav",
+            "name": "Flex",
+            "type": 5,
+            "index": 1
+        },
+        {
+            "path": "./FX/002_Flip.wav",
+            "name": "Flip",
+            "type": 5,
+            "index": 2
+        },
+        {
+            "path": "./FX/003_Gong.wav",
+            "name": "Gong",
+            "type": 5,
+            "index": 3
+        },
+        {
+            "path": "./FX/004_High_Q.wav",
+            "name": "High Q",
+            "type": 5,
+            "index": 4
+        },
+        {
+            "path": "./FX/005_Knocker.wav",
+            "name": "Knocker",
+            "type": 5,
+            "index": 5
+        },
+        {
+            "path": "./FX/006_Scratch_Pull.wav",
+            "name": "Scratch Pull",
+            "type": 5,
+            "index": 6
+        },
+        {
+            "path": "./FX/007_Scratch_Push.wav",
+            "name": "Scratch Push",
+            "type": 5,
+            "index": 7
+        },
+        {
+            "path": "./FX/008_Snaps.wav",
+            "name": "Snaps",
+            "type": 5,
+            "index": 8
+        },
+        {
+            "path": "./FX/009_Storm.wav",
+            "name": "Storm",
+            "type": 5,
+            "index": 9
+        },
+        {
+            "path": "./FX/010_Bass_Slide.wav",
+            "name": "Bass Slide",
+            "type": 5,
+            "index": 10
+        },
+        {
+            "path": "./FX/011_Guitar_Scrape_1.wav",
+            "name": "Guitar Scrape 1",
+            "type": 5,
+            "index": 11
+        },
+        {
+            "path": "./FX/012_Guitar_Scrape_2.wav",
+            "name": "Guitar Scrape 2",
+            "type": 5,
+            "index": 12
+        },
+        {
+            "path": "./FX/013_Guitar_Scrape_3.wav",
+            "name": "Guitar Scrape 3",
+            "type": 5,
+            "index": 13
+        },
+        {
+            "path": "./FX/014_Reverse_Kick.wav",
+            "name": "Reverse Kick",
+            "type": 5,
+            "index": 14
+        },
+        {
+            "path": "./FX/015_Reverse_Snare.wav",
+            "name": "Reverse Snare",
+            "type": 5,
+            "index": 15
+        },
+        {
+            "path": "./FX/016_Reverse_Tom.wav",
+            "name": "Reverse Tom",
+            "type": 5,
+            "index": 16
+        },
+        {
+            "path": "./FX/017_Reverse_Cymbal.wav",
+            "name": "Reverse Cymbal",
+            "type": 5,
+            "index": 17
+        },
+        {
+            "path": "./FX/018_Reverse_Clap.wav",
+            "name": "Reverse Clap",
+            "type": 5,
+            "index": 18
+        },
+        {
+            "path": "./FX/019_Reverse_Beat.wav",
+            "name": "Reverse Beat",
+            "type": 5,
+            "index": 19
+        },
+        {
+            "path": "./FX/020_Reverse_Tambourine.wav",
+            "name": "Reverse Tambourine",
+            "type": 5,
+            "index": 20
+        }
+    ]
+}
