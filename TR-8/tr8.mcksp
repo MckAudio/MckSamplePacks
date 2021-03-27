@@ -1,0 +1,838 @@
+{
+    "name": "TR-8",
+    "picture": "./tr8.png",
+    "sampleRate": 48000,
+    "numBits": 32,
+    "numChannels": 1,
+    "categories": [
+        "BD",
+        "SD",
+        "TOMS",
+        "HATS",
+        "PERC"
+    ],
+    "samples": [
+        {
+            "path": "./BD/001_808_Bass_Drum_1.wav",
+            "name": "808 Bass Drum 1",
+            "type": 0,
+            "index": 1
+        },
+        {
+            "path": "./BD/002_808_Bass_Drum_2.wav",
+            "name": "808 Bass Drum 2",
+            "type": 0,
+            "index": 2
+        },
+        {
+            "path": "./BD/003_808_Bass_Drum_3.wav",
+            "name": "808 Bass Drum 3",
+            "type": 0,
+            "index": 3
+        },
+        {
+            "path": "./BD/004_909_Bass_Drum_1.wav",
+            "name": "909 Bass Drum 1",
+            "type": 0,
+            "index": 4
+        },
+        {
+            "path": "./BD/005_909_Bass_Drum_2.wav",
+            "name": "909 Bass Drum 2",
+            "type": 0,
+            "index": 5
+        },
+        {
+            "path": "./BD/006_909_Bass_Drum_3.wav",
+            "name": "909 Bass Drum 3",
+            "type": 0,
+            "index": 6
+        },
+        {
+            "path": "./BD/007_808_Bass_Drum_Long_1.wav",
+            "name": "808 Bass Drum Long 1",
+            "type": 0,
+            "index": 7
+        },
+        {
+            "path": "./BD/008_808_Bass_Drum_Long_2.wav",
+            "name": "808 Bass Drum Long 2",
+            "type": 0,
+            "index": 8
+        },
+        {
+            "path": "./BD/009_707_Bass_Drum_1.wav",
+            "name": "707 Bass Drum 1",
+            "type": 0,
+            "index": 9
+        },
+        {
+            "path": "./BD/010_707_Bass_Drum_2.wav",
+            "name": "707 Bass Drum 2",
+            "type": 0,
+            "index": 10
+        },
+        {
+            "path": "./BD/011_707_Bass_Drum_3.wav",
+            "name": "707 Bass Drum 3",
+            "type": 0,
+            "index": 11
+        },
+        {
+            "path": "./BD/012_909_AttackBD_1.wav",
+            "name": "909 AttackBD 1",
+            "type": 0,
+            "index": 12
+        },
+        {
+            "path": "./BD/013_909_AttackBD_2.wav",
+            "name": "909 AttackBD 2",
+            "type": 0,
+            "index": 13
+        },
+        {
+            "path": "./BD/014_909_AttackBD_3.wav",
+            "name": "909 AttackBD 3",
+            "type": 0,
+            "index": 14
+        },
+        {
+            "path": "./BD/015_606_Bass_Drum_1.wav",
+            "name": "606 Bass Drum 1",
+            "type": 0,
+            "index": 15
+        },
+        {
+            "path": "./BD/016_606_Bass_Drum_2.wav",
+            "name": "606 Bass Drum 2",
+            "type": 0,
+            "index": 16
+        },
+        {
+            "path": "./BD/017_606_Bass_Drum_3.wav",
+            "name": "606 Bass Drum 3",
+            "type": 0,
+            "index": 17
+        },
+        {
+            "path": "./SD/001_808_Snare_Drum_1.wav",
+            "name": "808 Snare Drum 1",
+            "type": 1,
+            "index": 1
+        },
+        {
+            "path": "./SD/002_808_Snare_Drum_2.wav",
+            "name": "808 Snare Drum 2",
+            "type": 1,
+            "index": 2
+        },
+        {
+            "path": "./SD/003_808_Snare_Drum_3.wav",
+            "name": "808 Snare Drum 3",
+            "type": 1,
+            "index": 3
+        },
+        {
+            "path": "./SD/004_808_Snare_Drum_4.wav",
+            "name": "808 Snare Drum 4",
+            "type": 1,
+            "index": 4
+        },
+        {
+            "path": "./SD/005_909_Snare_Drum_1.wav",
+            "name": "909 Snare Drum 1",
+            "type": 1,
+            "index": 5
+        },
+        {
+            "path": "./SD/006_909_Snare_Drum_2.wav",
+            "name": "909 Snare Drum 2",
+            "type": 1,
+            "index": 6
+        },
+        {
+            "path": "./SD/007_909_Snare_Drum_3.wav",
+            "name": "909 Snare Drum 3",
+            "type": 1,
+            "index": 7
+        },
+        {
+            "path": "./SD/008_707_Snare_Dum_1.wav",
+            "name": "707 Snare Dum 1",
+            "type": 1,
+            "index": 8
+        },
+        {
+            "path": "./SD/009_707_Snare_Dum_2.wav",
+            "name": "707 Snare Dum 2",
+            "type": 1,
+            "index": 9
+        },
+        {
+            "path": "./SD/010_707_Snare_Dum_3.wav",
+            "name": "707 Snare Dum 3",
+            "type": 1,
+            "index": 10
+        },
+        {
+            "path": "./SD/011_909_AttackSD_1.wav",
+            "name": "909 AttackSD 1",
+            "type": 1,
+            "index": 11
+        },
+        {
+            "path": "./SD/012_909_AttackSD_2.wav",
+            "name": "909 AttackSD 2",
+            "type": 1,
+            "index": 12
+        },
+        {
+            "path": "./SD/013_606_Snare_Drum_1.wav",
+            "name": "606 Snare Drum 1",
+            "type": 1,
+            "index": 13
+        },
+        {
+            "path": "./SD/014_606_Snare_Drum_2.wav",
+            "name": "606 Snare Drum 2",
+            "type": 1,
+            "index": 14
+        },
+        {
+            "path": "./SD/015_606_Snare_Drum_3.wav",
+            "name": "606 Snare Drum 3",
+            "type": 1,
+            "index": 15
+        },
+        {
+            "path": "./SD/016_606_Snare_Drum_4.wav",
+            "name": "606 Snare Drum 4",
+            "type": 1,
+            "index": 16
+        },
+        {
+            "path": "./TOMS/001_808_Low_Tom.wav",
+            "name": "808 Low Tom",
+            "type": 2,
+            "index": 1
+        },
+        {
+            "path": "./TOMS/002_808_Mid_Tom.wav",
+            "name": "808 Mid Tom",
+            "type": 2,
+            "index": 2
+        },
+        {
+            "path": "./TOMS/003_808_High_Tom.wav",
+            "name": "808 High Tom",
+            "type": 2,
+            "index": 3
+        },
+        {
+            "path": "./TOMS/004_808_Low_Tom_Short.wav",
+            "name": "808 Low Tom Short",
+            "type": 2,
+            "index": 4
+        },
+        {
+            "path": "./TOMS/005_808_Mid_Tom_Short.wav",
+            "name": "808 Mid Tom Short",
+            "type": 2,
+            "index": 5
+        },
+        {
+            "path": "./TOMS/006_808_High_Tom_Short.wav",
+            "name": "808 High Tom Short",
+            "type": 2,
+            "index": 6
+        },
+        {
+            "path": "./TOMS/007_808_Low_Tom_Long.wav",
+            "name": "808 Low Tom Long",
+            "type": 2,
+            "index": 7
+        },
+        {
+            "path": "./TOMS/008_808_Mid_Tom_Long.wav",
+            "name": "808 Mid Tom Long",
+            "type": 2,
+            "index": 8
+        },
+        {
+            "path": "./TOMS/009_808_High_Tom_Long.wav",
+            "name": "808 High Tom Long",
+            "type": 2,
+            "index": 9
+        },
+        {
+            "path": "./TOMS/010_909_Low_Tom.wav",
+            "name": "909 Low Tom",
+            "type": 2,
+            "index": 10
+        },
+        {
+            "path": "./TOMS/011_909_Mid_Tom.wav",
+            "name": "909 Mid Tom",
+            "type": 2,
+            "index": 11
+        },
+        {
+            "path": "./TOMS/012_909_High_Tom.wav",
+            "name": "909 High Tom",
+            "type": 2,
+            "index": 12
+        },
+        {
+            "path": "./TOMS/013_909_Low_Tom_Short.wav",
+            "name": "909 Low Tom Short",
+            "type": 2,
+            "index": 13
+        },
+        {
+            "path": "./TOMS/014_909_Mid_Tom_Short.wav",
+            "name": "909 Mid Tom Short",
+            "type": 2,
+            "index": 14
+        },
+        {
+            "path": "./TOMS/015_909_High_Tom_Short.wav",
+            "name": "909 High Tom Short",
+            "type": 2,
+            "index": 15
+        },
+        {
+            "path": "./TOMS/016_909_Low_Tom_Long.wav",
+            "name": "909 Low Tom Long",
+            "type": 2,
+            "index": 16
+        },
+        {
+            "path": "./TOMS/017_909_Mid_Tom_Long.wav",
+            "name": "909 Mid Tom Long",
+            "type": 2,
+            "index": 17
+        },
+        {
+            "path": "./TOMS/018_909_High_Tom_Long.wav",
+            "name": "909 High Tom Long",
+            "type": 2,
+            "index": 18
+        },
+        {
+            "path": "./TOMS/019_808_Low_Conga.wav",
+            "name": "808 Low Conga",
+            "type": 2,
+            "index": 19
+        },
+        {
+            "path": "./TOMS/020_808_Mid_Conga.wav",
+            "name": "808 Mid Conga",
+            "type": 2,
+            "index": 20
+        },
+        {
+            "path": "./TOMS/021_808_High_Conga.wav",
+            "name": "808 High Conga",
+            "type": 2,
+            "index": 21
+        },
+        {
+            "path": "./TOMS/022_808_Low_Conga_Short.wav",
+            "name": "808 Low Conga Short",
+            "type": 2,
+            "index": 22
+        },
+        {
+            "path": "./TOMS/023_808_Mid_Conga_Short.wav",
+            "name": "808 Mid Conga Short",
+            "type": 2,
+            "index": 23
+        },
+        {
+            "path": "./TOMS/024_808_High_Conga_Short.wav",
+            "name": "808 High Conga Short",
+            "type": 2,
+            "index": 24
+        },
+        {
+            "path": "./TOMS/025_707_Low_Tom.wav",
+            "name": "707 Low Tom",
+            "type": 2,
+            "index": 25
+        },
+        {
+            "path": "./TOMS/026_707_Mid_Tom.wav",
+            "name": "707 Mid Tom",
+            "type": 2,
+            "index": 26
+        },
+        {
+            "path": "./TOMS/027_707_High_Tom.wav",
+            "name": "707 High Tom",
+            "type": 2,
+            "index": 27
+        },
+        {
+            "path": "./TOMS/028_707_Low_Tom_Short.wav",
+            "name": "707 Low Tom Short",
+            "type": 2,
+            "index": 28
+        },
+        {
+            "path": "./TOMS/029_707_Mid_Tom_Short.wav",
+            "name": "707 Mid Tom Short",
+            "type": 2,
+            "index": 29
+        },
+        {
+            "path": "./TOMS/030_707_High_Tom_Short.wav",
+            "name": "707 High Tom Short",
+            "type": 2,
+            "index": 30
+        },
+        {
+            "path": "./TOMS/031_808_NoiseTom_Low.wav",
+            "name": "808 NoiseTom Low",
+            "type": 2,
+            "index": 31
+        },
+        {
+            "path": "./TOMS/032_808_NoiseTom_Mid.wav",
+            "name": "808 NoiseTom Mid",
+            "type": 2,
+            "index": 32
+        },
+        {
+            "path": "./TOMS/033_808_NoiseTom_High.wav",
+            "name": "808 NoiseTom High",
+            "type": 2,
+            "index": 33
+        },
+        {
+            "path": "./TOMS/034_606_Floor_Tom.wav",
+            "name": "606 Floor Tom",
+            "type": 2,
+            "index": 34
+        },
+        {
+            "path": "./TOMS/035_606_Low_Tom.wav",
+            "name": "606 Low Tom",
+            "type": 2,
+            "index": 35
+        },
+        {
+            "path": "./TOMS/036_606_High_Tom.wav",
+            "name": "606 High Tom",
+            "type": 2,
+            "index": 36
+        },
+        {
+            "path": "./TOMS/037_606_Floor_Tom_Long.wav",
+            "name": "606 Floor Tom Long",
+            "type": 2,
+            "index": 37
+        },
+        {
+            "path": "./TOMS/038_606_Low_Tom_Long.wav",
+            "name": "606 Low Tom Long",
+            "type": 2,
+            "index": 38
+        },
+        {
+            "path": "./TOMS/039_606_High_Tom_Long.wav",
+            "name": "606 High Tom Long",
+            "type": 2,
+            "index": 39
+        },
+        {
+            "path": "./HATS/001_808_Open_HiHat.wav",
+            "name": "808 Open HiHat",
+            "type": 3,
+            "index": 1
+        },
+        {
+            "path": "./HATS/002_808_Closed_HiHat.wav",
+            "name": "808 Closed HiHat",
+            "type": 3,
+            "index": 2
+        },
+        {
+            "path": "./HATS/003_808_Open_HiHat_Short.wav",
+            "name": "808 Open HiHat Short",
+            "type": 3,
+            "index": 3
+        },
+        {
+            "path": "./HATS/004_808_Closed_HiHat_Short.wav",
+            "name": "808 Closed HiHat Short",
+            "type": 3,
+            "index": 4
+        },
+        {
+            "path": "./HATS/005_808_Open_HiHat_Long.wav",
+            "name": "808 Open HiHat Long",
+            "type": 3,
+            "index": 5
+        },
+        {
+            "path": "./HATS/006_808_Open_HiHat_Long.wav",
+            "name": "808 Open HiHat Long",
+            "type": 3,
+            "index": 6
+        },
+        {
+            "path": "./HATS/007_909_Open_HiHat.wav",
+            "name": "909 Open HiHat",
+            "type": 3,
+            "index": 7
+        },
+        {
+            "path": "./HATS/008_909_Closed_HiHat.wav",
+            "name": "909 Closed HiHat",
+            "type": 3,
+            "index": 8
+        },
+        {
+            "path": "./HATS/009_909_Open_HiHat_Short.wav",
+            "name": "909 Open HiHat Short",
+            "type": 3,
+            "index": 9
+        },
+        {
+            "path": "./HATS/010_909_Closed_HiHat_Short.wav",
+            "name": "909 Closed HiHat Short",
+            "type": 3,
+            "index": 10
+        },
+        {
+            "path": "./HATS/011_707_Open_HiHat.wav",
+            "name": "707 Open HiHat",
+            "type": 3,
+            "index": 11
+        },
+        {
+            "path": "./HATS/012_707_Closed_HiHat.wav",
+            "name": "707 Closed HiHat",
+            "type": 3,
+            "index": 12
+        },
+        {
+            "path": "./HATS/013_606_Open_HiHat.wav",
+            "name": "606 Open HiHat",
+            "type": 3,
+            "index": 13
+        },
+        {
+            "path": "./HATS/014_606_Closed_HiHat.wav",
+            "name": "606 Closed HiHat",
+            "type": 3,
+            "index": 14
+        },
+        {
+            "path": "./HATS/015_606_Open_HiHat_Long.wav",
+            "name": "606 Open HiHat Long",
+            "type": 3,
+            "index": 15
+        },
+        {
+            "path": "./HATS/016_606_Closed_HiHat_Long.wav",
+            "name": "606 Closed HiHat Long",
+            "type": 3,
+            "index": 16
+        },
+        {
+            "path": "./HATS/017_808_Crash_Cymbal.wav",
+            "name": "808 Crash Cymbal",
+            "type": 3,
+            "index": 17
+        },
+        {
+            "path": "./HATS/018_808_Crash_Cymbal_Short.wav",
+            "name": "808 Crash Cymbal Short",
+            "type": 3,
+            "index": 18
+        },
+        {
+            "path": "./HATS/019_808_Crash_Cymbal_Long.wav",
+            "name": "808 Crash Cymbal Long",
+            "type": 3,
+            "index": 19
+        },
+        {
+            "path": "./HATS/020_909_Crash_Cymbal.wav",
+            "name": "909 Crash Cymbal",
+            "type": 3,
+            "index": 20
+        },
+        {
+            "path": "./HATS/021_909_Crash_Cymbal_Short.wav",
+            "name": "909 Crash Cymbal Short",
+            "type": 3,
+            "index": 21
+        },
+        {
+            "path": "./HATS/022_707_Crash_Cymbal.wav",
+            "name": "707 Crash Cymbal",
+            "type": 3,
+            "index": 22
+        },
+        {
+            "path": "./HATS/023_707_Crash_Cymbal_Short.wav",
+            "name": "707 Crash Cymbal Short",
+            "type": 3,
+            "index": 23
+        },
+        {
+            "path": "./HATS/024_606_Cymbal.wav",
+            "name": "606 Cymbal",
+            "type": 3,
+            "index": 24
+        },
+        {
+            "path": "./HATS/025_606_Cymbal_Short.wav",
+            "name": "606 Cymbal Short",
+            "type": 3,
+            "index": 25
+        },
+        {
+            "path": "./HATS/026_909_Ride_Cymbal.wav",
+            "name": "909 Ride Cymbal",
+            "type": 3,
+            "index": 26
+        },
+        {
+            "path": "./HATS/027_909_Ride_Cymbal_Short.wav",
+            "name": "909 Ride Cymbal Short",
+            "type": 3,
+            "index": 27
+        },
+        {
+            "path": "./HATS/028_707_Ride_Cymbal.wav",
+            "name": "707 Ride Cymbal",
+            "type": 3,
+            "index": 28
+        },
+        {
+            "path": "./HATS/029_707_Ride_Cymbal_Short.wav",
+            "name": "707 Ride Cymbal Short",
+            "type": 3,
+            "index": 29
+        },
+        {
+            "path": "./PERC/001_727_Low_Conga.wav",
+            "name": "727 Low Conga",
+            "type": 4,
+            "index": 1
+        },
+        {
+            "path": "./PERC/002_727_Open_High_Conga.wav",
+            "name": "727 Open High Conga",
+            "type": 4,
+            "index": 2
+        },
+        {
+            "path": "./PERC/003_727_Mute_High_Conga.wav",
+            "name": "727 Mute High Conga",
+            "type": 4,
+            "index": 3
+        },
+        {
+            "path": "./PERC/004_727_Low_Timbale.wav",
+            "name": "727 Low Timbale",
+            "type": 4,
+            "index": 4
+        },
+        {
+            "path": "./PERC/005_727_High_Timbale.wav",
+            "name": "727 High Timbale",
+            "type": 4,
+            "index": 5
+        },
+        {
+            "path": "./PERC/006_727_Low_Bongo.wav",
+            "name": "727 Low Bongo",
+            "type": 4,
+            "index": 6
+        },
+        {
+            "path": "./PERC/007_727_High_Bongo.wav",
+            "name": "727 High Bongo",
+            "type": 4,
+            "index": 7
+        },
+        {
+            "path": "./PERC/008_808_Rim_Shot.wav",
+            "name": "808 Rim Shot",
+            "type": 4,
+            "index": 8
+        },
+        {
+            "path": "./PERC/009_909_Rim_Shot.wav",
+            "name": "909 Rim Shot",
+            "type": 4,
+            "index": 9
+        },
+        {
+            "path": "./PERC/010_808_Claves_1.wav",
+            "name": "808 Claves 1",
+            "type": 4,
+            "index": 10
+        },
+        {
+            "path": "./PERC/011_808_Claves_2.wav",
+            "name": "808 Claves 2",
+            "type": 4,
+            "index": 11
+        },
+        {
+            "path": "./PERC/012_707_Rim_Shot.wav",
+            "name": "707 Rim Shot",
+            "type": 4,
+            "index": 12
+        },
+        {
+            "path": "./PERC/013_707_Rim_Shot_Short.wav",
+            "name": "707 Rim Shot Short",
+            "type": 4,
+            "index": 13
+        },
+        {
+            "path": "./PERC/014_727_Agogo_Low.wav",
+            "name": "727 Agogo Low",
+            "type": 4,
+            "index": 14
+        },
+        {
+            "path": "./PERC/015_727_Agogo_Mid.wav",
+            "name": "727 Agogo Mid",
+            "type": 4,
+            "index": 15
+        },
+        {
+            "path": "./PERC/016_727_Agogo_High.wav",
+            "name": "727 Agogo High",
+            "type": 4,
+            "index": 16
+        },
+        {
+            "path": "./PERC/017_808_Hand_Clap.wav",
+            "name": "808 Hand Clap",
+            "type": 4,
+            "index": 17
+        },
+        {
+            "path": "./PERC/018_808_Hand_Clap_Long.wav",
+            "name": "808 Hand Clap Long",
+            "type": 4,
+            "index": 18
+        },
+        {
+            "path": "./PERC/019_909_Hand_Clap.wav",
+            "name": "909 Hand Clap",
+            "type": 4,
+            "index": 19
+        },
+        {
+            "path": "./PERC/020_909_Hand_Clap_Long.wav",
+            "name": "909 Hand Clap Long",
+            "type": 4,
+            "index": 20
+        },
+        {
+            "path": "./PERC/021_707_Hand_Clap.wav",
+            "name": "707 Hand Clap",
+            "type": 4,
+            "index": 21
+        },
+        {
+            "path": "./PERC/022_808_Noise_Clap.wav",
+            "name": "808 Noise Clap",
+            "type": 4,
+            "index": 22
+        },
+        {
+            "path": "./PERC/023_808_Noise_Clap_Long.wav",
+            "name": "808 Noise Clap Long",
+            "type": 4,
+            "index": 23
+        },
+        {
+            "path": "./PERC/024_808_Finger_Snap.wav",
+            "name": "808 Finger Snap",
+            "type": 4,
+            "index": 24
+        },
+        {
+            "path": "./PERC/025_808_Finger_Snap_Long.wav",
+            "name": "808 Finger Snap Long",
+            "type": 4,
+            "index": 25
+        },
+        {
+            "path": "./PERC/026_808_Maracas.wav",
+            "name": "808 Maracas",
+            "type": 4,
+            "index": 26
+        },
+        {
+            "path": "./PERC/027_808_Maracas_Long.wav",
+            "name": "808 Maracas Long",
+            "type": 4,
+            "index": 27
+        },
+        {
+            "path": "./PERC/028_727_Cabasa.wav",
+            "name": "727 Cabasa",
+            "type": 4,
+            "index": 28
+        },
+        {
+            "path": "./PERC/029_727_Short_Whistle.wav",
+            "name": "727 Short Whistle",
+            "type": 4,
+            "index": 29
+        },
+        {
+            "path": "./PERC/030_727_Long_Whistle.wav",
+            "name": "727 Long Whistle",
+            "type": 4,
+            "index": 30
+        },
+        {
+            "path": "./PERC/031_727_Quijada.wav",
+            "name": "727 Quijada",
+            "type": 4,
+            "index": 31
+        },
+        {
+            "path": "./PERC/032_727_Quijada_Long.wav",
+            "name": "727 Quijada Long",
+            "type": 4,
+            "index": 32
+        },
+        {
+            "path": "./PERC/033_808_Cowbell.wav",
+            "name": "808 Cowbell",
+            "type": 4,
+            "index": 33
+        },
+        {
+            "path": "./PERC/034_808_Cowbell_Long.wav",
+            "name": "808 Cowbell Long",
+            "type": 4,
+            "index": 34
+        },
+        {
+            "path": "./PERC/035_727_Star_Chime.wav",
+            "name": "727 Star Chime",
+            "type": 4,
+            "index": 35
+        },
+        {
+            "path": "./PERC/036_707_Tambourine.wav",
+            "name": "707 Tambourine",
+            "type": 4,
+            "index": 36
+        }
+    ]
+}
