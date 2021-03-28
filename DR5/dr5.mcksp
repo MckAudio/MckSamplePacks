@@ -1,5 +1,5 @@
 {
-    "name": "DR-5",
+    "name": "DR5",
     "picture": "./dr5.png",
     "sampleRate": 48000,
     "numBits": 32,

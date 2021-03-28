@@ -1,5 +1,5 @@
 {
-    "name": "TR-8",
+    "name": "TR8",
     "picture": "./tr8.png",
     "sampleRate": 48000,
     "numBits": 32,
