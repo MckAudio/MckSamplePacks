@@ -61,13 +61,13 @@
             "index": 9
         },
         {
-            "path": "./BD/010_Electronic_Kick_1.wav ",
+            "path": "./BD/010_Electronic_Kick_1.wav",
             "name": "Electronic Kick 1",
             "type": 0,
             "index": 10
         },
         {
-            "path": "./BD/011_Electronic_Kick_2.wav ",
+            "path": "./BD/011_Electronic_Kick_2.wav",
             "name": "Electronic Kick 2",
             "type": 0,
             "index": 11
@@ -79,13 +79,13 @@
             "index": 12
         },
         {
-            "path": "./BD/013_Gate_Kick_1.wav ",
+            "path": "./BD/013_Gate_Kick_1.wav",
             "name": "Gate Kick 1",
             "type": 0,
             "index": 13
         },
         {
-            "path": "./BD/014_Gate_Kick_2.wav ",
+            "path": "./BD/014_Gate_Kick_2.wav",
             "name": "Gate Kick 2",
             "type": 0,
             "index": 14
@@ -103,13 +103,13 @@
             "index": 16
         },
         {
-            "path": "./BD/017_House_Kick_1.wav ",
+            "path": "./BD/017_House_Kick_1.wav",
             "name": "House Kick 1",
             "type": 0,
             "index": 17
         },
         {
-            "path": "./BD/018_House_Kick_2.wav ",
+            "path": "./BD/018_House_Kick_2.wav",
             "name": "House Kick 2",
             "type": 0,
             "index": 18
@@ -163,13 +163,13 @@
             "index": 26
         },
         {
-            "path": "./BD/027_Soft_Kick_1.wav ",
+            "path": "./BD/027_Soft_Kick_1.wav",
             "name": "Soft Kick 1",
             "type": 0,
             "index": 27
         },
         {
-            "path": "./BD/028_Soft_Kick_2.wav ",
+            "path": "./BD/028_Soft_Kick_2.wav",
             "name": "Soft Kick 2",
             "type": 0,
             "index": 28
