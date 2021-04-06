@@ -1,0 +1,659 @@
+{
+    "name": "RX5",
+    "picture": "./rx5.png",
+    "sampleRate": 48000,
+    "numBits": 32,
+    "numChannels": 1,
+    "categories": [
+        "BD",
+        "SD",
+        "TOMS",
+        "HATS",
+        "PERC",
+        "MISC"
+    ],
+    "samples": [
+        {
+            "path": "./BD/001_Bass_Drum_1.wav",
+            "name": "Bass Drum 1",
+            "type": 0,
+            "index": 1
+        },
+        {
+            "path": "./BD/002_Bass_Drum_2.wav",
+            "name": "Bass Drum 2",
+            "type": 0,
+            "index": 2
+        },
+        {
+            "path": "./BD/003_Bass_Drum_3.wav",
+            "name": "Bass Drum 3",
+            "type": 0,
+            "index": 3
+        },
+        {
+            "path": "./BD/004_Jazz_Bass_Drum_1.wav",
+            "name": "Jazz Bass Drum 1",
+            "type": 0,
+            "index": 4
+        },
+        {
+            "path": "./BD/005_Jazz_Bass_Drum_2.wav",
+            "name": "Jazz Bass Drum 2",
+            "type": 0,
+            "index": 5
+        },
+        {
+            "path": "./BD/006_Fusion_Bass_Drum_1.wav",
+            "name": "Fusion Bass Drum 1",
+            "type": 0,
+            "index": 6
+        },
+        {
+            "path": "./BD/007_Fusion_Bass_Drum_2.wav",
+            "name": "Fusion Bass Drum 2",
+            "type": 0,
+            "index": 7
+        },
+        {
+            "path": "./BD/008_Electric_Bass_Drum.wav",
+            "name": "Electric Bass Drum",
+            "type": 0,
+            "index": 8
+        },
+        {
+            "path": "./BD/009_Heavy_Bass_Drum_1.wav",
+            "name": "Heavy Bass Drum 1",
+            "type": 0,
+            "index": 9
+        },
+        {
+            "path": "./BD/010_Heavy_Bass_Drum_2.wav",
+            "name": "Heavy Bass Drum 2",
+            "type": 0,
+            "index": 10
+        },
+        {
+            "path": "./BD/011_Heavy_Bass_Drum_3.wav",
+            "name": "Heavy Bass Drum 3",
+            "type": 0,
+            "index": 11
+        },
+        {
+            "path": "./BD/012_Process_Bass_Drum_1.wav",
+            "name": "Process Bass Drum 1",
+            "type": 0,
+            "index": 12
+        },
+        {
+            "path": "./BD/013_Process_Bass_Drum_2.wav",
+            "name": "Process Bass Drum 2",
+            "type": 0,
+            "index": 13
+        },
+        {
+            "path": "./BD/014_Process_Bass_Drum_3.wav",
+            "name": "Process Bass Drum 3",
+            "type": 0,
+            "index": 14
+        },
+        {
+            "path": "./SD/001_Snare_Drum_1.wav",
+            "name": "Snare Drum 1",
+            "type": 2,
+            "index": 1
+        },
+        {
+            "path": "./SD/002_Snare_Drum_2.wav",
+            "name": "Snare Drum 2",
+            "type": 2,
+            "index": 2
+        },
+        {
+            "path": "./SD/003_Snare_Drum_3.wav",
+            "name": "Snare Drum 3",
+            "type": 2,
+            "index": 3
+        },
+        {
+            "path": "./SD/004_Rim_Shot_1.wav",
+            "name": "Rim Shot 1",
+            "type": 2,
+            "index": 4
+        },
+        {
+            "path": "./SD/005_Rim_Shot_2.wav",
+            "name": "Rim Shot 2",
+            "type": 2,
+            "index": 5
+        },
+        {
+            "path": "./SD/006_Jazz_Snare_Drum_1.wav",
+            "name": "Jazz Snare Drum 1",
+            "type": 2,
+            "index": 6
+        },
+        {
+            "path": "./SD/007_Jazz_Snare_Drum_2.wav",
+            "name": "Jazz Snare Drum 2",
+            "type": 2,
+            "index": 7
+        },
+        {
+            "path": "./SD/008_Piccolo_Snare_Drum.wav",
+            "name": "Piccolo Snare Drum",
+            "type": 2,
+            "index": 8
+        },
+        {
+            "path": "./SD/009_Fusion_Snare_Drum.wav",
+            "name": "Fusion Snare Drum",
+            "type": 2,
+            "index": 9
+        },
+        {
+            "path": "./SD/010_Electric_Snare_Drum.wav",
+            "name": "Electric Snare Drum",
+            "type": 2,
+            "index": 10
+        },
+        {
+            "path": "./SD/011_Heavy_Snare_Drum_1.wav",
+            "name": "Heavy Snare Drum 1",
+            "type": 2,
+            "index": 11
+        },
+        {
+            "path": "./SD/012_Heavy_Snare_Drum_2.wav",
+            "name": "Heavy Snare Drum 2",
+            "type": 2,
+            "index": 12
+        },
+        {
+            "path": "./SD/013_Heavy_Snare_Drum_3.wav",
+            "name": "Heavy Snare Drum 3",
+            "type": 2,
+            "index": 13
+        },
+        {
+            "path": "./SD/014_Heavy_Snare_Drum_4.wav",
+            "name": "Heavy Snare Drum 4",
+            "type": 2,
+            "index": 14
+        },
+        {
+            "path": "./SD/015_Process_Snare_Drum_1.wav",
+            "name": "Process Snare Drum 1",
+            "type": 2,
+            "index": 15
+        },
+        {
+            "path": "./SD/016_Process_Snare_Drum_2.wav",
+            "name": "Process Snare Drum 2",
+            "type": 2,
+            "index": 16
+        },
+        {
+            "path": "./SD/017_Process_Snare_Drum_3.wav",
+            "name": "Process Snare Drum 3",
+            "type": 2,
+            "index": 17
+        },
+        {
+            "path": "./SD/018_Process_Snare_Drum_4.wav",
+            "name": "Process Snare Drum 4",
+            "type": 2,
+            "index": 18
+        },
+        {
+            "path": "./SD/019_Process_Snare_Drum_5.wav",
+            "name": "Process Snare Drum 5",
+            "type": 2,
+            "index": 19
+        },
+        {
+            "path": "./SD/020_Process_Snare_Drum_6.wav",
+            "name": "Process Snare Drum 6",
+            "type": 2,
+            "index": 20
+        },
+        {
+            "path": "./SD/021_FM_Snare_Drum.wav",
+            "name": "FM Snare Drum",
+            "type": 2,
+            "index": 21
+        },
+        {
+            "path": "./TOMS/001_Tom_1.wav",
+            "name": "Tom 1",
+            "type": 2,
+            "index": 1
+        },
+        {
+            "path": "./TOMS/002_Tom_2.wav",
+            "name": "Tom 2",
+            "type": 2,
+            "index": 2
+        },
+        {
+            "path": "./TOMS/003_Tom_3.wav",
+            "name": "Tom 3",
+            "type": 2,
+            "index": 3
+        },
+        {
+            "path": "./TOMS/004_Tom_4.wav",
+            "name": "Tom 4",
+            "type": 2,
+            "index": 4
+        },
+        {
+            "path": "./TOMS/005_Jazz_Tom_1.wav",
+            "name": "Jazz Tom 1",
+            "type": 2,
+            "index": 5
+        },
+        {
+            "path": "./TOMS/006_Jazz_Tom_2.wav",
+            "name": "Jazz Tom 2",
+            "type": 2,
+            "index": 6
+        },
+        {
+            "path": "./TOMS/007_Jazz_Tom_3.wav",
+            "name": "Jazz Tom 3",
+            "type": 2,
+            "index": 7
+        },
+        {
+            "path": "./TOMS/008_Fusion_Tom_1.wav",
+            "name": "Fusion Tom 1",
+            "type": 2,
+            "index": 8
+        },
+        {
+            "path": "./TOMS/009_Fusion_Tom_2.wav",
+            "name": "Fusion Tom 2",
+            "type": 2,
+            "index": 9
+        },
+        {
+            "path": "./TOMS/010_Fusion_Tom_3.wav",
+            "name": "Fusion Tom 3",
+            "type": 2,
+            "index": 10
+        },
+        {
+            "path": "./TOMS/011_Heavy_Tom_1.wav",
+            "name": "Heavy Tom 1",
+            "type": 2,
+            "index": 11
+        },
+        {
+            "path": "./TOMS/012_Heavy_Tom_2.wav",
+            "name": "Heavy Tom 2",
+            "type": 2,
+            "index": 12
+        },
+        {
+            "path": "./TOMS/013_Heavy_Tom_3.wav",
+            "name": "Heavy Tom 3",
+            "type": 2,
+            "index": 13
+        },
+        {
+            "path": "./TOMS/014_Heavy_Tom_4.wav",
+            "name": "Heavy Tom 4",
+            "type": 2,
+            "index": 14
+        },
+        {
+            "path": "./TOMS/015_Process_Tom_1.wav",
+            "name": "Process Tom 1",
+            "type": 2,
+            "index": 15
+        },
+        {
+            "path": "./TOMS/016_Process_Tom_2.wav",
+            "name": "Process Tom 2",
+            "type": 2,
+            "index": 16
+        },
+        {
+            "path": "./TOMS/017_Process_Tom_3.wav",
+            "name": "Process Tom 3",
+            "type": 2,
+            "index": 17
+        },
+        {
+            "path": "./TOMS/018_FM_Tom.wav",
+            "name": "FM Tom",
+            "type": 2,
+            "index": 18
+        },
+        {
+            "path": "./TOMS/019_Process_Roto.wav",
+            "name": "Process Roto",
+            "type": 2,
+            "index": 19
+        },
+        {
+            "path": "./TOMS/020_Hybrid_Tom.wav",
+            "name": "Hybrid Tom",
+            "type": 2,
+            "index": 20
+        },
+        {
+            "path": "./HATS/001_HiHat_Closed.wav",
+            "name": "HiHat Closed",
+            "type": 3,
+            "index": 1
+        },
+        {
+            "path": "./HATS/002_HiHat_Open.wav",
+            "name": "HiHat Open",
+            "type": 3,
+            "index": 2
+        },
+        {
+            "path": "./HATS/003_Ride_Cup.wav",
+            "name": "Ride Cup",
+            "type": 3,
+            "index": 3
+        },
+        {
+            "path": "./HATS/004_Ride_Edge.wav",
+            "name": "Ride Edge",
+            "type": 3,
+            "index": 4
+        },
+        {
+            "path": "./HATS/005_Crash_Cymbal.wav",
+            "name": "Crash Cymbal",
+            "type": 3,
+            "index": 5
+        },
+        {
+            "path": "./HATS/006_China_Cymbal.wav",
+            "name": "China Cymbal",
+            "type": 3,
+            "index": 6
+        },
+        {
+            "path": "./HATS/007_Jazz_HiHat_Open.wav",
+            "name": "Jazz HiHat Open",
+            "type": 3,
+            "index": 7
+        },
+        {
+            "path": "./HATS/008_Jazz_HiHat_Closed.wav",
+            "name": "Jazz HiHat Closed",
+            "type": 3,
+            "index": 8
+        },
+        {
+            "path": "./HATS/009_Jazz_HiHat_Pedal.wav",
+            "name": "Jazz HiHat Pedal",
+            "type": 3,
+            "index": 9
+        },
+        {
+            "path": "./HATS/010_Flat_Ride_Cymbal.wav",
+            "name": "Flat Ride Cymbal",
+            "type": 3,
+            "index": 10
+        },
+        {
+            "path": "./HATS/011_Cymbal_Brush_Hit.wav",
+            "name": "Cymbal Brush Hit",
+            "type": 3,
+            "index": 11
+        },
+        {
+            "path": "./HATS/012_Mallet_Crash.wav",
+            "name": "Mallet Crash",
+            "type": 3,
+            "index": 12
+        },
+        {
+            "path": "./HATS/013_Splash_Cymbal.wav",
+            "name": "Splash Cymbal",
+            "type": 3,
+            "index": 13
+        },
+        {
+            "path": "./PERC/001_Claps.wav",
+            "name": "Claps",
+            "type": 4,
+            "index": 1
+        },
+        {
+            "path": "./PERC/002_Tambourine.wav",
+            "name": "Tambourine",
+            "type": 4,
+            "index": 2
+        },
+        {
+            "path": "./PERC/003_Cowbell.wav",
+            "name": "Cowbell",
+            "type": 4,
+            "index": 3
+        },
+        {
+            "path": "./PERC/004_Shaker.wav",
+            "name": "Shaker",
+            "type": 4,
+            "index": 4
+        },
+        {
+            "path": "./PERC/005_Conga_High_Mute.wav",
+            "name": "Conga High Mute",
+            "type": 4,
+            "index": 5
+        },
+        {
+            "path": "./PERC/006_Conga_High_Open.wav",
+            "name": "Conga High Open",
+            "type": 4,
+            "index": 6
+        },
+        {
+            "path": "./PERC/007_Conga_Low.wav",
+            "name": "Conga Low",
+            "type": 4,
+            "index": 7
+        },
+        {
+            "path": "./PERC/008_Bongo_High.wav",
+            "name": "Bongo High",
+            "type": 4,
+            "index": 8
+        },
+        {
+            "path": "./PERC/009_Bongo_Low.wav",
+            "name": "Bongo Low",
+            "type": 4,
+            "index": 9
+        },
+        {
+            "path": "./PERC/010_Timbale_High.wav",
+            "name": "Timbale High",
+            "type": 4,
+            "index": 10
+        },
+        {
+            "path": "./PERC/011_Timbale_Low.wav",
+            "name": "Timbale Low",
+            "type": 4,
+            "index": 11
+        },
+        {
+            "path": "./PERC/012_Agogo_High.wav",
+            "name": "Agogo High",
+            "type": 4,
+            "index": 12
+        },
+        {
+            "path": "./PERC/013_Agogo_Low.wav",
+            "name": "Agogo Low",
+            "type": 4,
+            "index": 13
+        },
+        {
+            "path": "./PERC/014_Cuica.wav",
+            "name": "Cuica",
+            "type": 4,
+            "index": 14
+        },
+        {
+            "path": "./PERC/015_Castanet.wav",
+            "name": "Castanet",
+            "type": 4,
+            "index": 15
+        },
+        {
+            "path": "./PERC/016_Whistle.wav",
+            "name": "Whistle",
+            "type": 4,
+            "index": 16
+        },
+        {
+            "path": "./PERC/017_Timpani.wav",
+            "name": "Timpani",
+            "type": 4,
+            "index": 17
+        },
+        {
+            "path": "./PERC/018_Jazz_Cowbell.wav",
+            "name": "Jazz Cowbell",
+            "type": 4,
+            "index": 18
+        },
+        {
+            "path": "./MISC/001_Hey.wav",
+            "name": "Hey",
+            "type": 5,
+            "index": 1
+        },
+        {
+            "path": "./MISC/002_Wao.wav",
+            "name": "Wao",
+            "type": 5,
+            "index": 2
+        },
+        {
+            "path": "./MISC/003_Ooo.wav",
+            "name": "Ooo",
+            "type": 5,
+            "index": 3
+        },
+        {
+            "path": "./MISC/004_Glass_Crash.wav",
+            "name": "Glass Crash",
+            "type": 5,
+            "index": 4
+        },
+        {
+            "path": "./MISC/005_Gun.wav",
+            "name": "Gun",
+            "type": 5,
+            "index": 5
+        },
+        {
+            "path": "./MISC/006_FM_Percussion_1.wav",
+            "name": "FM Percussion 1",
+            "type": 5,
+            "index": 6
+        },
+        {
+            "path": "./MISC/007_FM_Percussion_2.wav",
+            "name": "FM Percussion 2",
+            "type": 5,
+            "index": 7
+        },
+        {
+            "path": "./MISC/008_FM_Percussion_3.wav",
+            "name": "FM Percussion 3",
+            "type": 5,
+            "index": 8
+        },
+        {
+            "path": "./MISC/009_E-Bass_High.wav",
+            "name": "E-Bass High",
+            "type": 5,
+            "index": 9
+        },
+        {
+            "path": "./MISC/010_E-Bass_Low.wav",
+            "name": "E-Bass Low",
+            "type": 5,
+            "index": 10
+        },
+        {
+            "path": "./MISC/011_DX_Orchestra.wav",
+            "name": "DX Orchestra",
+            "type": 5,
+            "index": 11
+        },
+        {
+            "path": "./MISC/012_DX_Marimba.wav",
+            "name": "DX Marimba",
+            "type": 5,
+            "index": 12
+        },
+        {
+            "path": "./MISC/013_DX_Clavinet.wav",
+            "name": "DX Clavinet",
+            "type": 5,
+            "index": 13
+        },
+        {
+            "path": "./MISC/014_Guitar_Down.wav",
+            "name": "Guitar Down",
+            "type": 5,
+            "index": 14
+        },
+        {
+            "path": "./MISC/015_Guitar_Up.wav",
+            "name": "Guitar Up",
+            "type": 5,
+            "index": 15
+        },
+        {
+            "path": "./MISC/016_Finger_Bass.wav",
+            "name": "Finger Bass",
+            "type": 5,
+            "index": 16
+        },
+        {
+            "path": "./MISC/017_Picked_Bass.wav",
+            "name": "Picked Bass",
+            "type": 5,
+            "index": 17
+        },
+        {
+            "path": "./MISC/018_Guitar_Single.wav",
+            "name": "Guitar Single",
+            "type": 5,
+            "index": 18
+        },
+        {
+            "path": "./MISC/019_Guitar_5th.wav",
+            "name": "Guitar 5th",
+            "type": 5,
+            "index": 19
+        },
+        {
+            "path": "./MISC/020_Synth_Bass.wav",
+            "name": "Synth Bass",
+            "type": 5,
+            "index": 20
+        },
+        {
+            "path": "./MISC/021_Door_Slam.wav",
+            "name": "Door Slam",
+            "type": 5,
+            "index": 21
+        }
+    ]
+}
