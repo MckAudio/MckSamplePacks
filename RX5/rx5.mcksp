@@ -100,127 +100,127 @@
         {
             "path": "./SD/001_Snare_Drum_1.wav",
             "name": "Snare Drum 1",
-            "type": 2,
+            "type": 1,
             "index": 1
         },
         {
             "path": "./SD/002_Snare_Drum_2.wav",
             "name": "Snare Drum 2",
-            "type": 2,
+            "type": 1,
             "index": 2
         },
         {
             "path": "./SD/003_Snare_Drum_3.wav",
             "name": "Snare Drum 3",
-            "type": 2,
+            "type": 1,
             "index": 3
         },
         {
             "path": "./SD/004_Rim_Shot_1.wav",
             "name": "Rim Shot 1",
-            "type": 2,
+            "type": 1,
             "index": 4
         },
         {
             "path": "./SD/005_Rim_Shot_2.wav",
             "name": "Rim Shot 2",
-            "type": 2,
+            "type": 1,
             "index": 5
         },
         {
             "path": "./SD/006_Jazz_Snare_Drum_1.wav",
             "name": "Jazz Snare Drum 1",
-            "type": 2,
+            "type": 1,
             "index": 6
         },
         {
             "path": "./SD/007_Jazz_Snare_Drum_2.wav",
             "name": "Jazz Snare Drum 2",
-            "type": 2,
+            "type": 1,
             "index": 7
         },
         {
             "path": "./SD/008_Piccolo_Snare_Drum.wav",
             "name": "Piccolo Snare Drum",
-            "type": 2,
+            "type": 1,
             "index": 8
         },
         {
             "path": "./SD/009_Fusion_Snare_Drum.wav",
             "name": "Fusion Snare Drum",
-            "type": 2,
+            "type": 1,
             "index": 9
         },
         {
             "path": "./SD/010_Electric_Snare_Drum.wav",
             "name": "Electric Snare Drum",
-            "type": 2,
+            "type": 1,
             "index": 10
         },
         {
             "path": "./SD/011_Heavy_Snare_Drum_1.wav",
             "name": "Heavy Snare Drum 1",
-            "type": 2,
+            "type": 1,
             "index": 11
         },
         {
             "path": "./SD/012_Heavy_Snare_Drum_2.wav",
             "name": "Heavy Snare Drum 2",
-            "type": 2,
+            "type": 1,
             "index": 12
         },
         {
             "path": "./SD/013_Heavy_Snare_Drum_3.wav",
             "name": "Heavy Snare Drum 3",
-            "type": 2,
+            "type": 1,
             "index": 13
         },
         {
             "path": "./SD/014_Heavy_Snare_Drum_4.wav",
             "name": "Heavy Snare Drum 4",
-            "type": 2,
+            "type": 1,
             "index": 14
         },
         {
             "path": "./SD/015_Process_Snare_Drum_1.wav",
             "name": "Process Snare Drum 1",
-            "type": 2,
+            "type": 1,
             "index": 15
         },
         {
             "path": "./SD/016_Process_Snare_Drum_2.wav",
             "name": "Process Snare Drum 2",
-            "type": 2,
+            "type": 1,
             "index": 16
         },
         {
             "path": "./SD/017_Process_Snare_Drum_3.wav",
             "name": "Process Snare Drum 3",
-            "type": 2,
+            "type": 1,
             "index": 17
         },
         {
             "path": "./SD/018_Process_Snare_Drum_4.wav",
             "name": "Process Snare Drum 4",
-            "type": 2,
+            "type": 1,
             "index": 18
         },
         {
             "path": "./SD/019_Process_Snare_Drum_5.wav",
             "name": "Process Snare Drum 5",
-            "type": 2,
+            "type": 1,
             "index": 19
         },
         {
             "path": "./SD/020_Process_Snare_Drum_6.wav",
             "name": "Process Snare Drum 6",
-            "type": 2,
+            "type": 1,
             "index": 20
         },
         {
             "path": "./SD/021_FM_Snare_Drum.wav",
             "name": "FM Snare Drum",
-            "type": 2,
+            "type": 1,
             "index": 21
         },
         {
