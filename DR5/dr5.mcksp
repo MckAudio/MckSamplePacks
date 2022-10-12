@@ -4,1051 +4,1225 @@
     "sampleRate": 48000,
     "numBits": 32,
     "numChannels": 1,
-    "categories": ["BD", "SD", "TOMS", "HATS", "PERC", "FX", "MISC"],
+    "categories": ["BD", "SD", "TOMS", "HATS", "PERC", "FX"],
     "samples": [
         {
             "path": "./BD/001_Ambient_Kick.wav",
             "name": "Ambient Kick",
             "type": 0,
-            "index": 1
+            "index": 1,
+            "id": "f39c775f-2566-40ef-ae92-1e41a777fbf1"
         },
         {
             "path": "./BD/002_Bright_Kick.wav",
             "name": "Bright Kick",
             "type": 0,
-            "index": 2
+            "index": 2,
+            "id": "583c48da-21f2-46a5-846a-5593d2f36d97"
         },
         {
             "path": "./BD/003_Cave_Kick.wav",
             "name": "Cave Kick",
             "type": 0,
-            "index": 3
+            "index": 3,
+            "id": "0682c00e-6eee-4fcc-8067-8baef50f8015"
         },
         {
             "path": "./BD/004_Club_Kick.wav",
             "name": "Club Kick",
             "type": 0,
-            "index": 4
+            "index": 4,
+            "id": "37b7a15c-ef20-45a4-b58e-d4b7bc52971d"
         },
         {
             "path": "./BD/005_Dance_Kick.wav",
             "name": "Dance Kick",
             "type": 0,
-            "index": 5
+            "index": 5,
+            "id": "ac9090f3-62ff-4fdd-b9bb-a96a886d05b6"
         },
         {
             "path": "./BD/006_Dark_Kick.wav",
             "name": "Dark Kick",
             "type": 0,
-            "index": 6
+            "index": 6,
+            "id": "d33dd1b3-575b-47b5-a168-98c2f078656a"
         },
         {
             "path": "./BD/007_Deep_Kick.wav",
             "name": "Deep Kick",
             "type": 0,
-            "index": 7
+            "index": 7,
+            "id": "617fb163-0f8d-4dfc-9086-89eaf5a5a6ad"
         },
         {
             "path": "./BD/008_Dig_Kick.wav",
             "name": "Dig Kick",
             "type": 0,
-            "index": 8
+            "index": 8,
+            "id": "f8309395-4f30-45eb-ace3-59632b3c14fc"
         },
         {
             "path": "./BD/009_Dry_Kick.wav",
             "name": "Dry Kick",
             "type": 0,
-            "index": 9
+            "index": 9,
+            "id": "d7ae8505-d5e8-4be8-91a0-147175a08d3e"
         },
         {
             "path": "./BD/010_Electronic_Kick_1.wav",
             "name": "Electronic Kick 1",
             "type": 0,
-            "index": 10
+            "index": 10,
+            "id": "b504dbd7-b13d-4a84-9f32-259988572ee2"
         },
         {
             "path": "./BD/011_Electronic_Kick_2.wav",
             "name": "Electronic Kick 2",
             "type": 0,
-            "index": 11
+            "index": 11,
+            "id": "be3eeac8-1778-49db-be71-11d779cd8c0f"
         },
         {
             "path": "./BD/012_Flop_Kick.wav",
             "name": "Flop Kick",
             "type": 0,
-            "index": 12
+            "index": 12,
+            "id": "0790b362-01db-4087-9ea6-0c9364c253fa"
         },
         {
             "path": "./BD/013_Gate_Kick_1.wav",
             "name": "Gate Kick 1",
             "type": 0,
-            "index": 13
+            "index": 13,
+            "id": "947c49ba-d680-4dcb-9136-42d563d7de58"
         },
         {
             "path": "./BD/014_Gate_Kick_2.wav",
             "name": "Gate Kick 2",
             "type": 0,
-            "index": 14
+            "index": 14,
+            "id": "5b4335d0-3725-4063-98a3-ed30e7af8ee5"
         },
         {
             "path": "./BD/015_Hall_Kick.wav",
             "name": "Hall Kick",
             "type": 0,
-            "index": 15
+            "index": 15,
+            "id": "e898a690-3f40-4fa0-8908-a671f525fe84"
         },
         {
             "path": "./BD/016_Hard_Kick.wav",
             "name": "Hard Kick",
             "type": 0,
-            "index": 16
+            "index": 16,
+            "id": "3a5d7025-77f1-4838-9571-802fa807a953"
         },
         {
             "path": "./BD/017_House_Kick_1.wav",
             "name": "House Kick 1",
             "type": 0,
-            "index": 17
+            "index": 17,
+            "id": "ca09def6-e278-4379-a201-f61c88849de0"
         },
         {
             "path": "./BD/018_House_Kick_2.wav",
             "name": "House Kick 2",
             "type": 0,
-            "index": 18
+            "index": 18,
+            "id": "354ea8e1-1693-4b2a-9a94-fb46675c5350"
         },
         {
             "path": "./BD/019_Maple_Kick.wav",
             "name": "Maple Kick",
             "type": 0,
-            "index": 19
+            "index": 19,
+            "id": "fdf5af10-47a3-4ef8-a4bc-ab068452742f"
         },
         {
             "path": "./BD/020_Mondo_Kick.wav",
             "name": "Mondo Kick",
             "type": 0,
-            "index": 20
+            "index": 20,
+            "id": "5caeafb7-e77d-4d98-8767-664fdcf757ca"
         },
         {
             "path": "./BD/021_Monster_Kick.wav",
             "name": "Monster Kick",
             "type": 0,
-            "index": 21
+            "index": 21,
+            "id": "a0efa55e-90ab-416a-b8c2-4b08b8ac38c6"
         },
         {
             "path": "./BD/022_Muffle_Kick.wav",
             "name": "Muffle Kick",
             "type": 0,
-            "index": 22
+            "index": 22,
+            "id": "5048e4a5-9388-4c63-aa93-143db2d9b12f"
         },
         {
             "path": "./BD/023_Real_Kick.wav",
             "name": "Real Kick",
             "type": 0,
-            "index": 23
+            "index": 23,
+            "id": "f8a60b2d-a3cf-4ad5-9a3d-1ce459d18ef2"
         },
         {
             "path": "./BD/024_Reverb_Kick.wav",
             "name": "Reverb Kick",
             "type": 0,
-            "index": 24
+            "index": 24,
+            "id": "edc2fa0a-e686-42cd-9332-7982783555fe"
         },
         {
             "path": "./BD/025_Room_Kick.wav",
             "name": "Room Kick",
             "type": 0,
-            "index": 25
+            "index": 25,
+            "id": "6ca5aee1-86b2-40b5-89c1-bcd1a29c46ef"
         },
         {
             "path": "./BD/026_Rubber_Kick.wav",
             "name": "Rubber Kick",
             "type": 0,
-            "index": 26
+            "index": 26,
+            "id": "92582ff1-75a3-4095-add6-82954c0b2756"
         },
         {
             "path": "./BD/027_Soft_Kick_1.wav",
             "name": "Soft Kick 1",
             "type": 0,
-            "index": 27
+            "index": 27,
+            "id": "90fe1271-0875-480d-b844-6799ed3dad22"
         },
         {
             "path": "./BD/028_Soft_Kick_2.wav",
             "name": "Soft Kick 2",
             "type": 0,
-            "index": 28
+            "index": 28,
+            "id": "3dbc74ab-c767-46fe-be54-8b48f5008122"
         },
         {
             "path": "./BD/029_Solid_Kick.wav",
             "name": "Solid Kick",
             "type": 0,
-            "index": 29
+            "index": 29,
+            "id": "1d390243-c3f9-4a59-9ead-c51674cb2a72"
         },
         {
             "path": "./BD/030_TR-808_Kick.wav",
             "name": "TR-808 Kick",
             "type": 0,
-            "index": 30
+            "index": 30,
+            "id": "52881877-c038-4a8f-ac01-a7f32a3af7fe"
         },
         {
             "path": "./BD/031_TR-909_Kick.wav",
             "name": "TR-909 Kick",
             "type": 0,
-            "index": 31
+            "index": 31,
+            "id": "af0227d9-defc-47b2-a41c-3e8ef95584d4"
         },
         {
             "path": "./BD/032_Tight_Kick.wav",
             "name": "Tight Kick",
             "type": 0,
-            "index": 32
+            "index": 32,
+            "id": "b2fcbe34-2479-4907-a579-d222ef456586"
         },
         {
             "path": "./SD/001_Acoustic_Snare_1.wav",
             "name": "Acoustic Snare 1",
             "type": 1,
-            "index": 1
+            "index": 1,
+            "id": "53297c66-5bbe-4039-a236-d71f74715791"
         },
         {
             "path": "./SD/002_Acoustic_Snare_2.wav",
             "name": "Acoustic Snare 2",
             "type": 1,
-            "index": 2
+            "index": 2,
+            "id": "56d74a7d-ab73-4594-8ee4-7ae29742524a"
         },
         {
             "path": "./SD/003_Brush_Roll_Snare.wav",
             "name": "Brush Roll Snare",
             "type": 1,
-            "index": 3
+            "index": 3,
+            "id": "54a96b86-e5dc-41bd-a8c0-010eb41fab2b"
         },
         {
             "path": "./SD/004_Brush_Slap_Snare_1.wav",
             "name": "Brush Slap Snare 1",
             "type": 1,
-            "index": 4
+            "index": 4,
+            "id": "af2b01e3-0e89-4ae7-b9ed-fe852d607c4b"
         },
         {
             "path": "./SD/005_Brush_Slap_Snare_2.wav",
             "name": "Brush Slap Snare 2",
             "type": 1,
-            "index": 5
+            "index": 5,
+            "id": "d13e00aa-4434-409f-b403-f5ccaa845597"
         },
         {
             "path": "./SD/006_Brush_Swish_Snare.wav",
             "name": "Brush Swish Snare",
             "type": 1,
-            "index": 6
+            "index": 6,
+            "id": "1a0d1cfc-371a-487c-93b7-5af042112730"
         },
         {
             "path": "./SD/007_Cool_Snare.wav",
             "name": "Cool Snare",
             "type": 1,
-            "index": 7
+            "index": 7,
+            "id": "4e1098cf-6d18-4359-a14c-06731276f04c"
         },
         {
             "path": "./SD/008_Dance_Snare.wav",
             "name": "Dance Snare",
             "type": 1,
-            "index": 8
+            "index": 8,
+            "id": "15d4c8b4-f884-4e9c-8044-26cc812f3a66"
         },
         {
             "path": "./SD/009_Dopin_Snare.wav",
             "name": "Dopin Snare",
             "type": 1,
-            "index": 9
+            "index": 9,
+            "id": "6baed33d-1ccd-4c5c-a629-83b4d2601efe"
         },
         {
             "path": "./SD/010_Double_Snare.wav",
             "name": "Double Snare",
             "type": 1,
-            "index": 10
+            "index": 10,
+            "id": "3fbcbc82-cd3e-47e6-b78d-9454ce01f3cc"
         },
         {
             "path": "./SD/011_Electronic_Snare.wav",
             "name": "Electronic Snare",
             "type": 1,
-            "index": 11
+            "index": 11,
+            "id": "ae0d2e30-4a33-4aeb-973d-f6482e06f920"
         },
         {
             "path": "./SD/012_Fat_Snare.wav",
             "name": "Fat Snare",
             "type": 1,
-            "index": 12
+            "index": 12,
+            "id": "9c8c4004-ee4c-4f1d-9921-a5e6cd5b7228"
         },
         {
             "path": "./SD/013_Grab_Snare.wav",
             "name": "Grab Snare",
             "type": 1,
-            "index": 13
+            "index": 13,
+            "id": "cc5eaba8-ebc8-4228-8acd-8bb8af0bc7aa"
         },
         {
             "path": "./SD/014_House_Snare.wav",
             "name": "House Snare",
             "type": 1,
-            "index": 14
+            "index": 14,
+            "id": "bacf5249-598d-42a8-bce9-c636bfe631c1"
         },
         {
             "path": "./SD/015_House_Dopin_Snare.wav",
             "name": "House Dopin Snare",
             "type": 1,
-            "index": 15
+            "index": 15,
+            "id": "f9f2b772-a790-4ef1-be7a-03eeeb09537c"
         },
         {
             "path": "./SD/016_Kettle_Snare.wav",
             "name": "Kettle Snare",
             "type": 1,
-            "index": 16
+            "index": 16,
+            "id": "7c85641a-d6f1-4c74-b1bf-89d6c412ca14"
         },
         {
             "path": "./SD/017_LA_Snare.wav",
             "name": "LA Snare",
             "type": 1,
-            "index": 17
+            "index": 17,
+            "id": "4b6c1173-ec3e-4b8d-86b5-45b21e9d1294"
         },
         {
             "path": "./SD/018_Loose_Snare.wav",
             "name": "Loose Snare",
             "type": 1,
-            "index": 18
+            "index": 18,
+            "id": "ae630616-a8f7-4b7a-94e5-affd62f45843"
         },
         {
             "path": "./SD/019_Maple_Snare.wav",
             "name": "Maple Snare",
             "type": 1,
-            "index": 19
+            "index": 19,
+            "id": "5d49781d-61bb-447e-910a-5542eb0c994e"
         },
         {
             "path": "./SD/020_Noise_Snare.wav",
             "name": "Noise Snare",
             "type": 1,
-            "index": 20
+            "index": 20,
+            "id": "f7b9f024-2910-4c37-982d-578f2070cf8d"
         },
         {
             "path": "./SD/021_Nashville_Snare.wav",
             "name": "Nashville Snare",
             "type": 1,
-            "index": 21
+            "index": 21,
+            "id": "a04bcbce-9c5a-481c-a685-93341082a0c9"
         },
         {
             "path": "./SD/022_Piccolo_Snare.wav",
             "name": "Piccolo Snare",
             "type": 1,
-            "index": 22
+            "index": 22,
+            "id": "bf2ca86a-bf80-41a4-9c20-f994d662923b"
         },
         {
             "path": "./SD/023_Radio_Snare.wav",
             "name": "Radio Snare",
             "type": 1,
-            "index": 23
+            "index": 23,
+            "id": "065d2835-9a74-42c0-8c12-f15c86534060"
         },
         {
             "path": "./SD/024_Rock_Rim_Shot_Snare.wav",
             "name": "Rock Rim Shot Snare",
             "type": 1,
-            "index": 24
+            "index": 24,
+            "id": "95e28ce2-f7bd-4107-86b0-2de4602c0365"
         },
         {
             "path": "./SD/025_Real_Snare_1.wav",
             "name": "Real Snare 1",
             "type": 1,
-            "index": 25
+            "index": 25,
+            "id": "02883f54-44cf-4f60-ae7c-1365bf1fe7ba"
         },
         {
             "path": "./SD/026_Real_Snare_2.wav",
             "name": "Real Snare 2",
             "type": 1,
-            "index": 26
+            "index": 26,
+            "id": "a3c032ab-87f8-45cd-ba43-da6f600494ff"
         },
         {
             "path": "./SD/027_Real_Snare_3.wav",
             "name": "Real Snare 3",
             "type": 1,
-            "index": 27
+            "index": 27,
+            "id": "ac73f164-ff75-4035-b8b0-36b7270454dd"
         },
         {
             "path": "./SD/028_Reggae_Snare_1.wav",
             "name": "Reggae Snare 1",
             "type": 1,
-            "index": 28
+            "index": 28,
+            "id": "1b0efed6-bf85-490b-9ace-7b3b23a3647f"
         },
         {
             "path": "./SD/029_Reggae_Snare_2.wav",
             "name": "Reggae Snare 2",
             "type": 1,
-            "index": 29
+            "index": 29,
+            "id": "233e17b5-8319-463d-8ea9-0126d822a25f"
         },
         {
             "path": "./SD/030_Ring_Snare.wav",
             "name": "Ring Snare",
             "type": 1,
-            "index": 30
+            "index": 30,
+            "id": "de4ae5a6-eb3c-4808-a98c-798cc322f738"
         },
         {
             "path": "./SD/031_Room_Gated_Snare.wav",
             "name": "Room Gated Snare",
             "type": 1,
-            "index": 31
+            "index": 31,
+            "id": "fb4b08db-e9b5-4adf-bf88-bcfe95ed0ad9"
         },
         {
             "path": "./SD/032_Rock_Snare.wav",
             "name": "Rock Snare",
             "type": 1,
-            "index": 32
+            "index": 32,
+            "id": "eacdc4e7-90b7-4f2a-91ec-c396ccca3b45"
         },
         {
             "path": "./SD/033_Slam_Snare.wav",
             "name": "Slam Snare",
             "type": 1,
-            "index": 33
+            "index": 33,
+            "id": "fb887db1-f2f0-4ac3-98b5-56229f107943"
         },
         {
             "path": "./SD/034_Spout_Snare.wav",
             "name": "Spout Snare",
             "type": 1,
-            "index": 34
+            "index": 34,
+            "id": "2c2888d7-5fe3-40a6-b716-9f38e45e293e"
         },
         {
             "path": "./SD/035_Stick_Snare.wav",
             "name": "Stick Snare",
             "type": 1,
-            "index": 35
+            "index": 35,
+            "id": "36d4e849-4cef-4242-9963-af7e9a9e938b"
         },
         {
             "path": "./SD/036_TR-808_Snare.wav",
             "name": "TR-808 Snare",
             "type": 1,
-            "index": 36
+            "index": 36,
+            "id": "ef50a76b-134c-45d2-84b1-9d69be8693e9"
         },
         {
             "path": "./SD/037_TR-909_Snare.wav",
             "name": "TR-909 Snare",
             "type": 1,
-            "index": 37
+            "index": 37,
+            "id": "49ad6587-10f3-458b-8b52-bb092e97dba2"
         },
         {
             "path": "./SD/038_Tight_Snare.wav",
             "name": "Tight Snare",
             "type": 1,
-            "index": 38
+            "index": 38,
+            "id": "fbb9218d-b11f-4e00-b6ed-206339e6d46b"
         },
         {
             "path": "./SD/039_Tiny_Snare.wav",
             "name": "Tiny Snare",
             "type": 1,
-            "index": 39
+            "index": 39,
+            "id": "b533874a-5c7d-4317-a6a5-06dbb6ea6742"
         },
         {
             "path": "./SD/040_Wood_Snare.wav",
             "name": "Wood Snare",
             "type": 1,
-            "index": 40
+            "index": 40,
+            "id": "b46a0516-f4bb-4e31-9022-445ba05235bf"
         },
         {
             "path": "./SD/041_Ambient_Side_Stick.wav",
             "name": "Ambient Side Stick",
             "type": 1,
-            "index": 41
+            "index": 41,
+            "id": "ba3a3995-b4dd-4dc8-b03d-167b0eb1a1bd"
         },
         {
             "path": "./SD/042_TR-808_Side_Stick.wav",
             "name": "TR-808 Side Stick",
             "type": 1,
-            "index": 42
+            "index": 42,
+            "id": "e1159a26-cbce-41c2-b2d2-ef5b0cfa0c5f"
         },
         {
             "path": "./TOMS/001_Ambient_Tom_1.wav",
             "name": "Ambient Tom 1",
             "type": 2,
-            "index": 1
+            "index": 1,
+            "id": "d43e9dd0-ba5a-4714-8789-7400ff987174"
         },
         {
             "path": "./TOMS/002_Ambient_Tom_2.wav",
             "name": "Ambient Tom 2",
             "type": 2,
-            "index": 2
+            "index": 2,
+            "id": "51732bd3-fa32-427c-a0c1-2880a73aced4"
         },
         {
             "path": "./TOMS/003_Ambient_Tom_3.wav",
             "name": "Ambient Tom 3",
             "type": 2,
-            "index": 3
+            "index": 3,
+            "id": "6eddd74c-42c0-4b18-896c-124bda46b4ab"
         },
         {
             "path": "./TOMS/004_Ambient_Tom_4.wav",
             "name": "Ambient Tom 4",
             "type": 2,
-            "index": 4
+            "index": 4,
+            "id": "f6fff104-65fb-458f-8ebd-974e45f3676b"
         },
         {
             "path": "./TOMS/005_Bend_Tom_1.wav",
             "name": "Bend Tom 1",
             "type": 2,
-            "index": 5
+            "index": 5,
+            "id": "aa66d9c4-9c82-4c4e-8f95-c7b93acaa14a"
         },
         {
             "path": "./TOMS/006_Bend_Tom_2.wav",
             "name": "Bend Tom 2",
             "type": 2,
-            "index": 6
+            "index": 6,
+            "id": "59ad9388-ab59-4e1f-bf9b-542e06a19e0a"
         },
         {
             "path": "./TOMS/007_Bend_Tom_3.wav",
             "name": "Bend Tom 3",
             "type": 2,
-            "index": 7
+            "index": 7,
+            "id": "fd847030-8e5c-4eba-905e-25208bbda4b4"
         },
         {
             "path": "./TOMS/008_Bend_Tom_4.wav",
             "name": "Bend Tom 4",
             "type": 2,
-            "index": 8
+            "index": 8,
+            "id": "8b9e4d79-59a6-481d-b4b1-172ff1a143fb"
         },
         {
             "path": "./TOMS/009_Brush_Tom_1.wav",
             "name": "Brush Tom 1",
             "type": 2,
-            "index": 9
+            "index": 9,
+            "id": "bbba9a99-0beb-4365-9b3f-845b62035045"
         },
         {
             "path": "./TOMS/010_Brush_Tom_2.wav",
             "name": "Brush Tom 2",
             "type": 2,
-            "index": 10
+            "index": 10,
+            "id": "e21d0540-7578-45b4-a6f5-1e65fad101c9"
         },
         {
             "path": "./TOMS/011_Brush_Tom_3.wav",
             "name": "Brush Tom 3",
             "type": 2,
-            "index": 11
+            "index": 11,
+            "id": "6b24294d-ef8f-46f8-8567-52cdbda91bf4"
         },
         {
             "path": "./TOMS/012_Brush_Tom_4.wav",
             "name": "Brush Tom 4",
             "type": 2,
-            "index": 12
+            "index": 12,
+            "id": "a76fb699-8167-4dcf-adc0-c8f7cbb42144"
         },
         {
             "path": "./TOMS/013_Double_Head_Tom_1.wav",
             "name": "Double Head Tom 1",
             "type": 2,
-            "index": 13
+            "index": 13,
+            "id": "d0d36108-9230-4355-85a9-dabdd15db603"
         },
         {
             "path": "./TOMS/014_Double_Head_Tom_2.wav",
             "name": "Double Head Tom 2",
             "type": 2,
-            "index": 14
+            "index": 14,
+            "id": "651d64d7-f0b1-4be1-8a4f-371091dedeee"
         },
         {
             "path": "./TOMS/015_Double_Head_Tom_3.wav",
             "name": "Double Head Tom 3",
             "type": 2,
-            "index": 15
+            "index": 15,
+            "id": "9b48afac-1b4b-42fe-86a3-ddf528993a1d"
         },
         {
             "path": "./TOMS/016_Double_Head_Tom_4.wav",
             "name": "Double Head Tom 4",
             "type": 2,
-            "index": 16
+            "index": 16,
+            "id": "a0a4b5c5-c225-4731-9f2f-e32b5fe3cbad"
         },
         {
             "path": "./TOMS/017_Rim_Tom_1.wav",
             "name": "Rim Tom 1",
             "type": 2,
-            "index": 17
+            "index": 17,
+            "id": "9f25e7fe-3220-4d80-a01c-fcfc0d306ae1"
         },
         {
             "path": "./TOMS/018_Rim_Tom_2.wav",
             "name": "Rim Tom 2",
             "type": 2,
-            "index": 18
+            "index": 18,
+            "id": "ebc29338-1a20-47ab-93c0-80f42f8ea725"
         },
         {
             "path": "./TOMS/019_Rim_Tom_3.wav",
             "name": "Rim Tom 3",
             "type": 2,
-            "index": 19
+            "index": 19,
+            "id": "9f91db8a-8674-4b3d-af09-68eb9d54e033"
         },
         {
             "path": "./TOMS/020_Rim_Tom_4.wav",
             "name": "Rim Tom 4",
             "type": 2,
-            "index": 20
+            "index": 20,
+            "id": "5f0278bd-3bfb-4275-bca0-bd872e5bea43"
         },
         {
             "path": "./TOMS/021_Rock_Tom_1.wav",
             "name": "Rock Tom 1",
             "type": 2,
-            "index": 21
+            "index": 21,
+            "id": "f1b80032-fda6-43e1-88da-c2837539c5ce"
         },
         {
             "path": "./TOMS/022_Rock_Tom_2.wav",
             "name": "Rock Tom 2",
             "type": 2,
-            "index": 22
+            "index": 22,
+            "id": "2dbd2587-e578-47e6-9ff3-ea5bdded8be6"
         },
         {
             "path": "./TOMS/023_Rock_Tom_3.wav",
             "name": "Rock Tom 3",
             "type": 2,
-            "index": 23
+            "index": 23,
+            "id": "fa61cd23-9b53-4e32-8695-16c0b6072c7f"
         },
         {
             "path": "./TOMS/024_Rock_Tom_4.wav",
             "name": "Rock Tom 4",
             "type": 2,
-            "index": 24
+            "index": 24,
+            "id": "daa6ef70-b882-46b8-a203-7a187491dd0d"
         },
         {
             "path": "./TOMS/025_TR_808_Tom_1.wav",
             "name": "TR-808 Tom 1",
             "type": 2,
-            "index": 25
+            "index": 25,
+            "id": "17ed5d34-d800-4a51-aa21-ed83de89dc5f"
         },
         {
             "path": "./TOMS/026_TR_808_Tom_2.wav",
             "name": "TR-808 Tom 2",
             "type": 2,
-            "index": 26
+            "index": 26,
+            "id": "4b0f5a30-26ec-4684-8d21-ec10d346fbc1"
         },
         {
             "path": "./HATS/001_Acoustic_Closed_Hi-hat.wav",
             "name": "Acoustic Closed Hi-hat",
             "type": 3,
-            "index": 1
+            "index": 1,
+            "id": "3b70695a-0f29-4017-822e-713727388a6c"
         },
         {
             "path": "./HATS/002_Acoustic_Open_Hi-hat.wav",
             "name": "Acoustic Open Hi-hat",
             "type": 3,
-            "index": 2
+            "index": 2,
+            "id": "5c69823a-6721-4322-9ad2-a47924fe6db1"
         },
         {
             "path": "./HATS/003_Acoustic_Pedal_Hi-hat.wav",
             "name": "Acoustic Pedal Hi-hat",
             "type": 3,
-            "index": 3
+            "index": 3,
+            "id": "3abec87e-29ab-464f-a49b-d2580a4b44d8"
         },
         {
             "path": "./HATS/004_Heavy_Closed_Hi-hat.wav",
             "name": "Heavy Closed Hi-hat",
             "type": 3,
-            "index": 4
+            "index": 4,
+            "id": "c48ee1d9-b643-4654-aff5-d3657c2e4b6c"
         },
         {
             "path": "./HATS/005_Heavy_Open_Hi-hat.wav",
             "name": "Heavy Open Hi-hat",
             "type": 3,
-            "index": 5
+            "index": 5,
+            "id": "125d7641-2be4-43dc-9983-fe606b25cbc5"
         },
         {
             "path": "./HATS/006_Pop_Closed_Hi-hat.wav",
             "name": "Pop Closed Hi-hat",
             "type": 3,
-            "index": 6
+            "index": 6,
+            "id": "bca80a78-0642-48ad-920c-6a634e9fc89c"
         },
         {
             "path": "./HATS/007_Pop_Open_Hi-hat.wav",
             "name": "Pop Open Hi-hat",
             "type": 3,
-            "index": 7
+            "index": 7,
+            "id": "e9c3324a-f19b-4899-892e-2ca2aa8cf3eb"
         },
         {
             "path": "./HATS/008_Pop_Pedal_Hi-hat.wav",
             "name": "Pop Pedal Hi-hat",
             "type": 3,
-            "index": 8
+            "index": 8,
+            "id": "477c0bba-7655-4ec0-9fee-b727e92a9ac7"
         },
         {
             "path": "./HATS/009_TR_808_Closed_Hi-hat.wav",
             "name": "TR-808 Closed Hi-hat",
             "type": 3,
-            "index": 9
+            "index": 9,
+            "id": "6fbb8cdc-24ec-4175-adea-ef8ae41d40e0"
         },
         {
             "path": "./HATS/010_TR_808_Open_Hi-hat.wav",
             "name": "TR-808 Open Hi-hat",
             "type": 3,
-            "index": 10
+            "index": 10,
+            "id": "f3289a8f-0205-4139-95dd-d2592e383e99"
         },
         {
             "path": "./HATS/011_Crash_Cymbal_1.wav",
             "name": "Crash Cymbal 1",
             "type": 3,
-            "index": 11
+            "index": 11,
+            "id": "92eac678-d874-4959-8f83-576310eed73c"
         },
         {
             "path": "./HATS/012_Crash_Cymbal_2.wav",
             "name": "Crash Cymbal 2",
             "type": 3,
-            "index": 12
+            "index": 12,
+            "id": "d6fa8644-ced3-4159-83b6-7caa972d63d0"
         },
         {
             "path": "./HATS/013_Ride_Bell_Cymbal.wav",
             "name": "Ride Bell Cymbal",
             "type": 3,
-            "index": 13
+            "index": 13,
+            "id": "de4496e7-5333-41e4-bc51-e1e192319cee"
         },
         {
             "path": "./HATS/014_Ride_Cymbal.wav",
             "name": "Ride Cymbal",
             "type": 3,
-            "index": 14
+            "index": 14,
+            "id": "1a0ad955-10f8-40ce-ab00-a44c72feb4ff"
         },
         {
             "path": "./HATS/015_Rock_Ride_Bell_Cymbal.wav",
             "name": "Rock Ride Bell Cymbal",
             "type": 3,
-            "index": 15
+            "index": 15,
+            "id": "bd492600-fdbd-4de4-bfcf-b3421a350e17"
         },
         {
             "path": "./HATS/016_Rock_Ride_Cymbal.wav",
             "name": "Rock Ride Cymbal",
             "type": 3,
-            "index": 16
+            "index": 16,
+            "id": "01dad881-8e67-4178-a8d6-cf1df0899458"
         },
         {
             "path": "./HATS/017_Splash_Cymbal.wav",
             "name": "Splash Cymbal",
             "type": 3,
-            "index": 17
+            "index": 17,
+            "id": "749355e5-4a44-4980-855e-11ca771a34b7"
         },
         {
             "path": "./PERC/001_Cowbell.wav",
             "name": "Cowbell",
             "type": 4,
-            "index": 1
+            "index": 1,
+            "id": "1618c6ca-40b8-4c1c-9e05-d507e74e7e85"
         },
         {
             "path": "./PERC/002_Tambourine.wav",
             "name": "Tambourine",
             "type": 4,
-            "index": 2
+            "index": 2,
+            "id": "dcf2f416-c52d-4ea4-9900-2b5464269d2c"
         },
         {
             "path": "./PERC/003_Hall_Castanets.wav",
             "name": "Hall Castanets",
             "type": 4,
-            "index": 3
+            "index": 3,
+            "id": "9f32fb2f-10e7-4f66-92ec-77b001eb4075"
         },
         {
             "path": "./PERC/004_Sleigh_Bell.wav",
             "name": "Sleigh Bell",
             "type": 4,
-            "index": 4
+            "index": 4,
+            "id": "705d949f-d3b2-42f5-a7f2-fbbb01281d1e"
         },
         {
             "path": "./PERC/005_Triangle_Mute.wav",
             "name": "Triangle Mute",
             "type": 4,
-            "index": 5
+            "index": 5,
+            "id": "d5a3d4e9-1a6c-4066-ac92-269a7cb2d555"
         },
         {
             "path": "./PERC/006_Triangle_Open.wav",
             "name": "Triangle Open",
             "type": 4,
-            "index": 6
+            "index": 6,
+            "id": "49c678dd-da36-4e8e-a56f-89724e6056ca"
         },
         {
             "path": "./PERC/007_Wood_Block.wav",
             "name": "Wood Block",
             "type": 4,
-            "index": 7
+            "index": 7,
+            "id": "c73d2141-d2aa-409d-9b6a-50d390fc741e"
         },
         {
             "path": "./PERC/008_Bongo_High.wav",
             "name": "Bongo High",
             "type": 4,
-            "index": 8
+            "index": 8,
+            "id": "4e02ad60-b0c7-470f-9a6d-bb82997bed7c"
         },
         {
             "path": "./PERC/009_Bongo_Low.wav",
             "name": "Bongo Low",
             "type": 4,
-            "index": 9
+            "index": 9,
+            "id": "5b28574d-171f-4909-b08e-f9a8c7d65036"
         },
         {
             "path": "./PERC/010_Conga_High_Mute.wav",
             "name": "Conga High Mute",
             "type": 4,
-            "index": 10
+            "index": 10,
+            "id": "fac63d61-2f20-4f09-9f32-834a14faa19d"
         },
         {
             "path": "./PERC/011_Conga_High_Slap.wav",
             "name": "Conga High Slap",
             "type": 4,
-            "index": 11
+            "index": 11,
+            "id": "f06008bc-d97c-4335-b23a-367183109a9d"
         },
         {
             "path": "./PERC/012_Conga_High_Open.wav",
             "name": "Conga High Open",
             "type": 4,
-            "index": 12
+            "index": 12,
+            "id": "cf71d523-f188-4d55-b156-2c70db1d6c6a"
         },
         {
             "path": "./PERC/013_Conga_Low_Open.wav",
             "name": "Conga Low Open",
             "type": 4,
-            "index": 13
+            "index": 13,
+            "id": "bb610963-dfff-40bb-ae98-a906c63e7c34"
         },
         {
             "path": "./PERC/014_Timbale.wav",
             "name": "Timbale",
             "type": 4,
-            "index": 14
+            "index": 14,
+            "id": "a856f736-6d4e-4514-9ac7-88fb1547f560"
         },
         {
             "path": "./PERC/015_Claves.wav",
             "name": "Claves",
             "type": 4,
-            "index": 15
+            "index": 15,
+            "id": "921ca336-3082-47da-b374-3c9376f8b26e"
         },
         {
             "path": "./PERC/016_Vibra-slap.wav",
             "name": "Vibra-slap",
             "type": 4,
-            "index": 16
+            "index": 16,
+            "id": "71b64858-dbbd-4ea7-8440-3585cf247cdb"
         },
         {
             "path": "./PERC/017_Guiro_Short.wav",
             "name": "Guiro Short",
             "type": 4,
-            "index": 17
+            "index": 17,
+            "id": "91e8ecd8-8e89-4b14-87af-c90cccf79b77"
         },
         {
             "path": "./PERC/018_Guiro_Long.wav",
             "name": "Guiro Long",
             "type": 4,
-            "index": 18
+            "index": 18,
+            "id": "ed2c2ddd-f8bb-4dbb-a873-157cc60a8901"
         },
         {
             "path": "./PERC/019_Maracas.wav",
             "name": "Maracas",
             "type": 4,
-            "index": 19
+            "index": 19,
+            "id": "e6ad6013-4787-4a22-8d4b-bf72e5868a0a"
         },
         {
             "path": "./PERC/020_Shaker.wav",
             "name": "Shaker",
             "type": 4,
-            "index": 20
+            "index": 20,
+            "id": "615d1144-998f-45f3-8d98-ebed45f91239"
         },
         {
             "path": "./PERC/021_Cabasa.wav",
             "name": "Cabasa",
             "type": 4,
-            "index": 21
+            "index": 21,
+            "id": "09d8e871-5541-4d3d-a128-a51da621e1bc"
         },
         {
             "path": "./PERC/022_Whistle_Short.wav",
             "name": "Whistle Short",
             "type": 4,
-            "index": 22
+            "index": 22,
+            "id": "d4ab7333-2137-4e1b-9baf-39d957e1b3f8"
         },
         {
             "path": "./PERC/023_Whistle_Long.wav",
             "name": "Whistle Long",
             "type": 4,
-            "index": 23
+            "index": 23,
+            "id": "6874854e-b7ae-4f95-b6d8-53aeef1b7d52"
         },
         {
             "path": "./PERC/024_Agogo.wav",
             "name": "Agogo",
             "type": 4,
-            "index": 24
+            "index": 24,
+            "id": "46562ef4-df35-4a29-83af-0945faf2b710"
         },
         {
             "path": "./PERC/025_Cuica.wav",
             "name": "Cuica",
             "type": 4,
-            "index": 25
+            "index": 25,
+            "id": "8546fbd6-6797-4cc1-8860-2202fb16b5e9"
         },
         {
             "path": "./PERC/026_Pandiero_Open.wav",
             "name": "Pandiero Open",
             "type": 4,
-            "index": 26
+            "index": 26,
+            "id": "02df9a12-279c-4834-ab66-4b22860cdbea"
         },
         {
             "path": "./PERC/027_Pandiero_Mute.wav",
             "name": "Pandiero Mute",
             "type": 4,
-            "index": 27
+            "index": 27,
+            "id": "a511ad27-c481-4e19-8fb9-6b8ca1c529d2"
         },
         {
             "path": "./PERC/028_Surdo_Open.wav",
             "name": "Surdo Open",
             "type": 4,
-            "index": 28
+            "index": 28,
+            "id": "24b20d7b-4b13-4f17-beb3-d793eb86ea4d"
         },
         {
             "path": "./PERC/029_Surdo_Mute.wav",
             "name": "Surdo Mute",
             "type": 4,
-            "index": 29
+            "index": 29,
+            "id": "90715498-529e-404d-b8f4-f9d0eef35e4b"
         },
         {
             "path": "./PERC/030_Tamborim.wav",
             "name": "Tamborim",
             "type": 4,
-            "index": 30
+            "index": 30,
+            "id": "1f3755d4-44db-4250-9044-b5be19d79818"
         },
         {
             "path": "./PERC/031_CR-78_Cowbell.wav",
             "name": "CR-78 Cowbell",
             "type": 4,
-            "index": 31
+            "index": 31,
+            "id": "6bf87f1f-25ac-46a2-b24a-50b05c51f56e"
         },
         {
             "path": "./PERC/032_CR-78_Metallic_Beat.wav",
             "name": "CR-78 Metallic Beat",
             "type": 4,
-            "index": 32
+            "index": 32,
+            "id": "db635af1-510f-419a-a379-d1ff4ebeb422"
         },
         {
             "path": "./PERC/033_CR-78_Guiro.wav",
             "name": "CR-78 Guiro",
             "type": 4,
-            "index": 33
+            "index": 33,
+            "id": "ec2d0c92-0cc5-4eee-b459-3ab463b2f59e"
         },
         {
             "path": "./PERC/034_CR-78_Tambourine.wav",
             "name": "CR-78 Tambourine",
             "type": 4,
-            "index": 34
+            "index": 34,
+            "id": "b7be39b0-2847-451c-be09-486b7e94ffc9"
         },
         {
             "path": "./PERC/035_TR-808_Clap.wav",
             "name": "TR-808 Clap",
             "type": 4,
-            "index": 35
+            "index": 35,
+            "id": "7b292445-ca4f-4320-a2d2-052c69484e51"
         },
         {
             "path": "./PERC/036_TR-808_Cowbell.wav",
             "name": "TR-808 Cowbell",
             "type": 4,
-            "index": 36
+            "index": 36,
+            "id": "9973ea53-3a64-40ef-b7ab-7cfb248307c3"
         },
         {
             "path": "./PERC/037_TR-808_Conga.wav",
             "name": "TR-808 Conga",
             "type": 4,
-            "index": 37
+            "index": 37,
+            "id": "5985faae-cb47-425c-950c-4559924fb043"
         },
         {
             "path": "./FX/001_Flex.wav",
             "name": "Flex",
             "type": 5,
-            "index": 1
+            "index": 1,
+            "id": "84b5bdbe-408b-42d2-83c7-c3cf22664887"
         },
         {
             "path": "./FX/002_Flip.wav",
             "name": "Flip",
             "type": 5,
-            "index": 2
+            "index": 2,
+            "id": "155c99c3-1802-4078-baae-ea15e2aa4ff9"
         },
         {
             "path": "./FX/003_Gong.wav",
             "name": "Gong",
             "type": 5,
-            "index": 3
+            "index": 3,
+            "id": "bd09bdfb-1028-4d5d-80a4-9d438fc28ddd"
         },
         {
             "path": "./FX/004_High_Q.wav",
             "name": "High Q",
             "type": 5,
-            "index": 4
+            "index": 4,
+            "id": "e6266811-66f3-43cd-95ef-e04cbc371eed"
         },
         {
             "path": "./FX/005_Knocker.wav",
             "name": "Knocker",
             "type": 5,
-            "index": 5
+            "index": 5,
+            "id": "fec0ebd4-0157-4878-8500-397cefe6a17e"
         },
         {
             "path": "./FX/006_Scratch_Pull.wav",
             "name": "Scratch Pull",
             "type": 5,
-            "index": 6
+            "index": 6,
+            "id": "17569ad0-6b1d-4f0b-bfd6-2595284e8f39"
         },
         {
             "path": "./FX/007_Scratch_Push.wav",
             "name": "Scratch Push",
             "type": 5,
-            "index": 7
+            "index": 7,
+            "id": "d988d1d8-fe94-4291-8e48-3308605792c1"
         },
         {
             "path": "./FX/008_Snaps.wav",
             "name": "Snaps",
             "type": 5,
-            "index": 8
+            "index": 8,
+            "id": "ba069344-4df8-44c0-8f86-c47b2a41cb3e"
         },
         {
             "path": "./FX/009_Storm.wav",
             "name": "Storm",
             "type": 5,
-            "index": 9
+            "index": 9,
+            "id": "d623005c-6d2f-4dd3-b4e4-ccd91153d922"
         },
         {
             "path": "./FX/010_Bass_Slide.wav",
             "name": "Bass Slide",
             "type": 5,
-            "index": 10
+            "index": 10,
+            "id": "f0358553-055d-4d88-8452-e6ccb7106867"
         },
         {
             "path": "./FX/011_Guitar_Scrape_1.wav",
             "name": "Guitar Scrape 1",
             "type": 5,
-            "index": 11
+            "index": 11,
+            "id": "e3d8268e-d6ec-4b43-bb58-1c5547848b2e"
         },
         {
             "path": "./FX/012_Guitar_Scrape_2.wav",
             "name": "Guitar Scrape 2",
             "type": 5,
-            "index": 12
+            "index": 12,
+            "id": "342fa68d-3686-4cbc-ae12-79cb699abbe8"
         },
         {
             "path": "./FX/013_Guitar_Scrape_3.wav",
             "name": "Guitar Scrape 3",
             "type": 5,
-            "index": 13
+            "index": 13,
+            "id": "921426c0-7455-459a-84ef-4659ac34c4f4"
         },
         {
             "path": "./FX/014_Reverse_Kick.wav",
             "name": "Reverse Kick",
             "type": 5,
-            "index": 14
+            "index": 14,
+            "id": "e91d0b21-eba0-4ecd-9444-7fe6d76cc2de"
         },
         {
             "path": "./FX/015_Reverse_Snare.wav",
             "name": "Reverse Snare",
             "type": 5,
-            "index": 15
+            "index": 15,
+            "id": "8abb8370-5d56-42e8-978e-18b8be3023ff"
         },
         {
             "path": "./FX/016_Reverse_Tom.wav",
             "name": "Reverse Tom",
             "type": 5,
-            "index": 16
+            "index": 16,
+            "id": "78dfe7d4-4cc9-4b65-9791-ba159ca3a677"
         },
         {
             "path": "./FX/017_Reverse_Cymbal.wav",
             "name": "Reverse Cymbal",
             "type": 5,
-            "index": 17
+            "index": 17,
+            "id": "8f5f2460-2556-4b63-83a8-df6ced634c04"
         },
         {
             "path": "./FX/018_Reverse_Clap.wav",
             "name": "Reverse Clap",
             "type": 5,
-            "index": 18
+            "index": 18,
+            "id": "6e368d47-964b-45e1-aab1-4db91a18a1ec"
         },
         {
             "path": "./FX/019_Reverse_Beat.wav",
             "name": "Reverse Beat",
             "type": 5,
-            "index": 19
+            "index": 19,
+            "id": "33260043-8209-443f-8d76-5f6f60edc4c4"
         },
         {
             "path": "./FX/020_Reverse_Tambourine.wav",
             "name": "Reverse Tambourine",
             "type": 5,
-            "index": 20
+            "index": 20,
+            "id": "3bc11318-af26-414c-871a-417de01add5a"
         }
     ]
 }

@@ -16,823 +16,960 @@
             "path": "./BD/001_808_Bass_Drum_1.wav",
             "name": "808 Bass Drum 1",
             "type": 0,
-            "index": 1
+            "index": 1,
+            "id": "9beff8af-fdcb-406a-b2b2-4ad8f77eaa65"
         },
         {
             "path": "./BD/002_808_Bass_Drum_2.wav",
             "name": "808 Bass Drum 2",
             "type": 0,
-            "index": 2
+            "index": 2,
+            "id": "55e29750-fdda-4e0f-802f-81ba17735903"
         },
         {
             "path": "./BD/003_808_Bass_Drum_3.wav",
             "name": "808 Bass Drum 3",
             "type": 0,
-            "index": 3
+            "index": 3,
+            "id": "82367e89-c9d1-404c-a37a-3414f49e9dd4"
         },
         {
             "path": "./BD/004_909_Bass_Drum_1.wav",
             "name": "909 Bass Drum 1",
             "type": 0,
-            "index": 4
+            "index": 4,
+            "id": "f44331f5-2d7c-4346-8f25-185791957fe2"
         },
         {
             "path": "./BD/005_909_Bass_Drum_2.wav",
             "name": "909 Bass Drum 2",
             "type": 0,
-            "index": 5
+            "index": 5,
+            "id": "25fee5b6-283b-47db-b8a9-d55b02e4a114"
         },
         {
             "path": "./BD/006_909_Bass_Drum_3.wav",
             "name": "909 Bass Drum 3",
             "type": 0,
-            "index": 6
+            "index": 6,
+            "id": "b60b78f2-b431-43b5-a507-970594b3e117"
         },
         {
             "path": "./BD/007_808_Bass_Drum_Long_1.wav",
             "name": "808 Bass Drum Long 1",
             "type": 0,
-            "index": 7
+            "index": 7,
+            "id": "eb3fc278-bc30-4cc0-b44c-574d7f24e203"
         },
         {
             "path": "./BD/008_808_Bass_Drum_Long_2.wav",
             "name": "808 Bass Drum Long 2",
             "type": 0,
-            "index": 8
+            "index": 8,
+            "id": "401a0366-0d01-4e01-9237-2b6aeaae60f6"
         },
         {
             "path": "./BD/009_707_Bass_Drum_1.wav",
             "name": "707 Bass Drum 1",
             "type": 0,
-            "index": 9
+            "index": 9,
+            "id": "1067644b-55a5-497f-b81a-5df422de9af7"
         },
         {
             "path": "./BD/010_707_Bass_Drum_2.wav",
             "name": "707 Bass Drum 2",
             "type": 0,
-            "index": 10
+            "index": 10,
+            "id": "650e4e8c-07b3-4011-af9b-d198d5bc92a6"
         },
         {
             "path": "./BD/011_707_Bass_Drum_3.wav",
             "name": "707 Bass Drum 3",
             "type": 0,
-            "index": 11
+            "index": 11,
+            "id": "73bb1936-04ef-4d18-9094-0030c252b4c6"
         },
         {
             "path": "./BD/012_909_AttackBD_1.wav",
             "name": "909 AttackBD 1",
             "type": 0,
-            "index": 12
+            "index": 12,
+            "id": "77c0a40b-3ff0-4df5-b03f-2a9d51db3fff"
         },
         {
             "path": "./BD/013_909_AttackBD_2.wav",
             "name": "909 AttackBD 2",
             "type": 0,
-            "index": 13
+            "index": 13,
+            "id": "03bfd057-b1fb-475f-9c57-fa7eac0d3047"
         },
         {
             "path": "./BD/014_909_AttackBD_3.wav",
             "name": "909 AttackBD 3",
             "type": 0,
-            "index": 14
+            "index": 14,
+            "id": "90ca9282-4d1b-4e0c-9ed7-f43bf0b164dc"
         },
         {
             "path": "./BD/015_606_Bass_Drum_1.wav",
             "name": "606 Bass Drum 1",
             "type": 0,
-            "index": 15
+            "index": 15,
+            "id": "06679ae4-f189-429e-9d67-c2a4a6fa5bd9"
         },
         {
             "path": "./BD/016_606_Bass_Drum_2.wav",
             "name": "606 Bass Drum 2",
             "type": 0,
-            "index": 16
+            "index": 16,
+            "id": "cde32e3b-9d9a-4f35-94ce-1747d3626e96"
         },
         {
             "path": "./BD/017_606_Bass_Drum_3.wav",
             "name": "606 Bass Drum 3",
             "type": 0,
-            "index": 17
+            "index": 17,
+            "id": "1c6a0010-4955-4ebd-8ccc-5184755089e5"
         },
         {
             "path": "./SD/001_808_Snare_Drum_1.wav",
             "name": "808 Snare Drum 1",
             "type": 1,
-            "index": 1
+            "index": 1,
+            "id": "011abb8a-253b-4215-9766-a47ccc4dd528"
         },
         {
             "path": "./SD/002_808_Snare_Drum_2.wav",
             "name": "808 Snare Drum 2",
             "type": 1,
-            "index": 2
+            "index": 2,
+            "id": "96a59606-1ffe-4a6f-8708-85c014b53ac5"
         },
         {
             "path": "./SD/003_808_Snare_Drum_3.wav",
             "name": "808 Snare Drum 3",
             "type": 1,
-            "index": 3
+            "index": 3,
+            "id": "ad8808ae-ddb4-4d3b-95c9-512412082966"
         },
         {
             "path": "./SD/004_808_Snare_Drum_4.wav",
             "name": "808 Snare Drum 4",
             "type": 1,
-            "index": 4
+            "index": 4,
+            "id": "e294921d-74b3-4f2e-9a78-8c8eb4fbc657"
         },
         {
             "path": "./SD/005_909_Snare_Drum_1.wav",
             "name": "909 Snare Drum 1",
             "type": 1,
-            "index": 5
+            "index": 5,
+            "id": "a5fcc247-e37f-4f31-9440-24e105944d9f"
         },
         {
             "path": "./SD/006_909_Snare_Drum_2.wav",
             "name": "909 Snare Drum 2",
             "type": 1,
-            "index": 6
+            "index": 6,
+            "id": "10b2fa2f-648f-484e-887a-623f009088eb"
         },
         {
             "path": "./SD/007_909_Snare_Drum_3.wav",
             "name": "909 Snare Drum 3",
             "type": 1,
-            "index": 7
+            "index": 7,
+            "id": "6820c589-d7e3-4054-88da-d2af9da60b23"
         },
         {
             "path": "./SD/008_707_Snare_Dum_1.wav",
             "name": "707 Snare Dum 1",
             "type": 1,
-            "index": 8
+            "index": 8,
+            "id": "28a8a273-40ce-485d-8bca-37b91e71ee88"
         },
         {
             "path": "./SD/009_707_Snare_Dum_2.wav",
             "name": "707 Snare Dum 2",
             "type": 1,
-            "index": 9
+            "index": 9,
+            "id": "b942bddc-9490-4dd5-950e-464a617e0f54"
         },
         {
             "path": "./SD/010_707_Snare_Dum_3.wav",
             "name": "707 Snare Dum 3",
             "type": 1,
-            "index": 10
+            "index": 10,
+            "id": "f49b7580-6b67-4b80-902b-0f03b54664cc"
         },
         {
             "path": "./SD/011_909_AttackSD_1.wav",
             "name": "909 AttackSD 1",
             "type": 1,
-            "index": 11
+            "index": 11,
+            "id": "1824b029-a562-4d29-a819-8975d5a98154"
         },
         {
             "path": "./SD/012_909_AttackSD_2.wav",
             "name": "909 AttackSD 2",
             "type": 1,
-            "index": 12
+            "index": 12,
+            "id": "93f9f150-f242-450e-a4b3-9a48b9b71069"
         },
         {
             "path": "./SD/013_606_Snare_Drum_1.wav",
             "name": "606 Snare Drum 1",
             "type": 1,
-            "index": 13
+            "index": 13,
+            "id": "5de9e376-e267-40c4-9e37-108bbc709f66"
         },
         {
             "path": "./SD/014_606_Snare_Drum_2.wav",
             "name": "606 Snare Drum 2",
             "type": 1,
-            "index": 14
+            "index": 14,
+            "id": "7febbd0c-5499-4127-a2c4-42a78044e6a1"
         },
         {
             "path": "./SD/015_606_Snare_Drum_3.wav",
             "name": "606 Snare Drum 3",
             "type": 1,
-            "index": 15
+            "index": 15,
+            "id": "79c488b2-e233-4eff-b3ca-e27f45b01522"
         },
         {
             "path": "./SD/016_606_Snare_Drum_4.wav",
             "name": "606 Snare Drum 4",
             "type": 1,
-            "index": 16
+            "index": 16,
+            "id": "a8b92b06-153e-4e79-b331-fc314acf59b3"
         },
         {
             "path": "./TOMS/001_808_Low_Tom.wav",
             "name": "808 Low Tom",
             "type": 2,
-            "index": 1
+            "index": 1,
+            "id": "3e2cc2c9-412f-4644-aa6b-23a726177124"
         },
         {
             "path": "./TOMS/002_808_Mid_Tom.wav",
             "name": "808 Mid Tom",
             "type": 2,
-            "index": 2
+            "index": 2,
+            "id": "322880cd-447a-40c8-9c35-e5b47a048030"
         },
         {
             "path": "./TOMS/003_808_High_Tom.wav",
             "name": "808 High Tom",
             "type": 2,
-            "index": 3
+            "index": 3,
+            "id": "f1415175-6e61-409b-95f7-c8f10d24940a"
         },
         {
             "path": "./TOMS/004_808_Low_Tom_Short.wav",
             "name": "808 Low Tom Short",
             "type": 2,
-            "index": 4
+            "index": 4,
+            "id": "c5b942e2-0641-43aa-bfb3-7fa25cf761e2"
         },
         {
             "path": "./TOMS/005_808_Mid_Tom_Short.wav",
             "name": "808 Mid Tom Short",
             "type": 2,
-            "index": 5
+            "index": 5,
+            "id": "d1abf078-0da2-4b5a-96cf-d3cd7ca32551"
         },
         {
             "path": "./TOMS/006_808_High_Tom_Short.wav",
             "name": "808 High Tom Short",
             "type": 2,
-            "index": 6
+            "index": 6,
+            "id": "395c8b08-23f4-4891-bf3e-75df763be042"
         },
         {
             "path": "./TOMS/007_808_Low_Tom_Long.wav",
             "name": "808 Low Tom Long",
             "type": 2,
-            "index": 7
+            "index": 7,
+            "id": "ed8e1ebe-ccb8-49e1-9f45-ef5cf36047de"
         },
         {
             "path": "./TOMS/008_808_Mid_Tom_Long.wav",
             "name": "808 Mid Tom Long",
             "type": 2,
-            "index": 8
+            "index": 8,
+            "id": "aa90d604-ba9f-4b80-97cb-35b4d7694772"
         },
         {
             "path": "./TOMS/009_808_High_Tom_Long.wav",
             "name": "808 High Tom Long",
             "type": 2,
-            "index": 9
+            "index": 9,
+            "id": "fd0d0452-5a6b-4835-b807-0fa6c5f9565e"
         },
         {
             "path": "./TOMS/010_909_Low_Tom.wav",
             "name": "909 Low Tom",
             "type": 2,
-            "index": 10
+            "index": 10,
+            "id": "4a00b072-89e9-44cc-ac0a-eeb3201a4269"
         },
         {
             "path": "./TOMS/011_909_Mid_Tom.wav",
             "name": "909 Mid Tom",
             "type": 2,
-            "index": 11
+            "index": 11,
+            "id": "1d42a97d-5582-4a01-938b-b1afb5d64c22"
         },
         {
             "path": "./TOMS/012_909_High_Tom.wav",
             "name": "909 High Tom",
             "type": 2,
-            "index": 12
+            "index": 12,
+            "id": "4d0d913e-8e0f-4a6a-bc2e-098785e186d9"
         },
         {
             "path": "./TOMS/013_909_Low_Tom_Short.wav",
             "name": "909 Low Tom Short",
             "type": 2,
-            "index": 13
+            "index": 13,
+            "id": "47d8212f-af44-46b1-85d2-74a456f1fc58"
         },
         {
             "path": "./TOMS/014_909_Mid_Tom_Short.wav",
             "name": "909 Mid Tom Short",
             "type": 2,
-            "index": 14
+            "index": 14,
+            "id": "09763289-4c98-4884-9523-1b5ffcf299c9"
         },
         {
             "path": "./TOMS/015_909_High_Tom_Short.wav",
             "name": "909 High Tom Short",
             "type": 2,
-            "index": 15
+            "index": 15,
+            "id": "b39adcd8-7689-4b9c-8553-bce21ad7e891"
         },
         {
             "path": "./TOMS/016_909_Low_Tom_Long.wav",
             "name": "909 Low Tom Long",
             "type": 2,
-            "index": 16
+            "index": 16,
+            "id": "798b7f79-4f12-405d-8271-47ce75fb4f20"
         },
         {
             "path": "./TOMS/017_909_Mid_Tom_Long.wav",
             "name": "909 Mid Tom Long",
             "type": 2,
-            "index": 17
+            "index": 17,
+            "id": "035f6410-a8f8-44bf-8b24-69c4cbf8802e"
         },
         {
             "path": "./TOMS/018_909_High_Tom_Long.wav",
             "name": "909 High Tom Long",
             "type": 2,
-            "index": 18
+            "index": 18,
+            "id": "107e0d81-e9d2-431c-8d9a-f7218281c326"
         },
         {
             "path": "./TOMS/019_808_Low_Conga.wav",
             "name": "808 Low Conga",
             "type": 2,
-            "index": 19
+            "index": 19,
+            "id": "137dfd38-5061-4112-a7c8-a198ed84fc8c"
         },
         {
             "path": "./TOMS/020_808_Mid_Conga.wav",
             "name": "808 Mid Conga",
             "type": 2,
-            "index": 20
+            "index": 20,
+            "id": "9f836bec-e76c-4f6f-85d3-f1267a618ec6"
         },
         {
             "path": "./TOMS/021_808_High_Conga.wav",
             "name": "808 High Conga",
             "type": 2,
-            "index": 21
+            "index": 21,
+            "id": "878386a4-0b25-4ace-87bd-9fc6fe1b866c"
         },
         {
             "path": "./TOMS/022_808_Low_Conga_Short.wav",
             "name": "808 Low Conga Short",
             "type": 2,
-            "index": 22
+            "index": 22,
+            "id": "9798f97a-0bb3-4d29-aaa5-be16469d296f"
         },
         {
             "path": "./TOMS/023_808_Mid_Conga_Short.wav",
             "name": "808 Mid Conga Short",
             "type": 2,
-            "index": 23
+            "index": 23,
+            "id": "8307fdb3-209f-4afd-b487-2ea4a5e1dafe"
         },
         {
             "path": "./TOMS/024_808_High_Conga_Short.wav",
             "name": "808 High Conga Short",
             "type": 2,
-            "index": 24
+            "index": 24,
+            "id": "70ddc23d-7526-4044-a47f-809eeaa41883"
         },
         {
             "path": "./TOMS/025_707_Low_Tom.wav",
             "name": "707 Low Tom",
             "type": 2,
-            "index": 25
+            "index": 25,
+            "id": "b64d7a20-c9be-4b54-96d3-ce920f3a7c4d"
         },
         {
             "path": "./TOMS/026_707_Mid_Tom.wav",
             "name": "707 Mid Tom",
             "type": 2,
-            "index": 26
+            "index": 26,
+            "id": "84abb1ca-54f6-4089-8b97-c3992b33e7a1"
         },
         {
             "path": "./TOMS/027_707_High_Tom.wav",
             "name": "707 High Tom",
             "type": 2,
-            "index": 27
+            "index": 27,
+            "id": "51cfde79-b884-49c4-81da-fee8371d4a75"
         },
         {
             "path": "./TOMS/028_707_Low_Tom_Short.wav",
             "name": "707 Low Tom Short",
             "type": 2,
-            "index": 28
+            "index": 28,
+            "id": "80dd107d-57e4-4aa7-842f-e6e975feef54"
         },
         {
             "path": "./TOMS/029_707_Mid_Tom_Short.wav",
             "name": "707 Mid Tom Short",
             "type": 2,
-            "index": 29
+            "index": 29,
+            "id": "d1025a7c-d54f-4c87-a487-879debc51549"
         },
         {
             "path": "./TOMS/030_707_High_Tom_Short.wav",
             "name": "707 High Tom Short",
             "type": 2,
-            "index": 30
+            "index": 30,
+            "id": "d74b9a94-303f-4a30-9c1f-caa9fec0e57c"
         },
         {
             "path": "./TOMS/031_808_NoiseTom_Low.wav",
             "name": "808 NoiseTom Low",
             "type": 2,
-            "index": 31
+            "index": 31,
+            "id": "de1892af-7088-43df-9b8e-5331008f3423"
         },
         {
             "path": "./TOMS/032_808_NoiseTom_Mid.wav",
             "name": "808 NoiseTom Mid",
             "type": 2,
-            "index": 32
+            "index": 32,
+            "id": "24f8ec92-5ded-4110-95b5-adde856bac31"
         },
         {
             "path": "./TOMS/033_808_NoiseTom_High.wav",
             "name": "808 NoiseTom High",
             "type": 2,
-            "index": 33
+            "index": 33,
+            "id": "60c5626a-cbed-4d93-9789-56ebc926ed08"
         },
         {
             "path": "./TOMS/034_606_Floor_Tom.wav",
             "name": "606 Floor Tom",
             "type": 2,
-            "index": 34
+            "index": 34,
+            "id": "7ffddf3e-9895-4d43-9385-3910d75be263"
         },
         {
             "path": "./TOMS/035_606_Low_Tom.wav",
             "name": "606 Low Tom",
             "type": 2,
-            "index": 35
+            "index": 35,
+            "id": "fa1488f3-33c1-4089-8af1-4c65e13472d5"
         },
         {
             "path": "./TOMS/036_606_High_Tom.wav",
             "name": "606 High Tom",
             "type": 2,
-            "index": 36
+            "index": 36,
+            "id": "4f25eaa2-586b-464e-bf35-eecbddf76e3b"
         },
         {
             "path": "./TOMS/037_606_Floor_Tom_Long.wav",
             "name": "606 Floor Tom Long",
             "type": 2,
-            "index": 37
+            "index": 37,
+            "id": "dc79c57d-ad5d-439d-9a19-cc92bf3545f5"
         },
         {
             "path": "./TOMS/038_606_Low_Tom_Long.wav",
             "name": "606 Low Tom Long",
             "type": 2,
-            "index": 38
+            "index": 38,
+            "id": "b056ed41-c462-4c5b-bfe1-8adb2a5d92e6"
         },
         {
             "path": "./TOMS/039_606_High_Tom_Long.wav",
             "name": "606 High Tom Long",
             "type": 2,
-            "index": 39
+            "index": 39,
+            "id": "88a594cc-f457-43be-b89b-bb80aa3a2009"
         },
         {
             "path": "./HATS/001_808_Open_HiHat.wav",
             "name": "808 Open HiHat",
             "type": 3,
-            "index": 1
+            "index": 1,
+            "id": "050492ea-e502-4171-b7d8-b327c96954e2"
         },
         {
             "path": "./HATS/002_808_Closed_HiHat.wav",
             "name": "808 Closed HiHat",
             "type": 3,
-            "index": 2
+            "index": 2,
+            "id": "514aaa87-c766-4d52-a284-9a9438b477d0"
         },
         {
             "path": "./HATS/003_808_Open_HiHat_Short.wav",
             "name": "808 Open HiHat Short",
             "type": 3,
-            "index": 3
+            "index": 3,
+            "id": "b12c408a-66d9-473b-84a5-b2af7f24c227"
         },
         {
             "path": "./HATS/004_808_Closed_HiHat_Short.wav",
             "name": "808 Closed HiHat Short",
             "type": 3,
-            "index": 4
+            "index": 4,
+            "id": "e4116ffe-f861-494c-a3b1-0488d91e6f8f"
         },
         {
             "path": "./HATS/005_808_Open_HiHat_Long.wav",
             "name": "808 Open HiHat Long",
             "type": 3,
-            "index": 5
+            "index": 5,
+            "id": "006e74a5-f8c9-4b03-a1bb-8fc9986c9257"
         },
         {
             "path": "./HATS/006_808_Open_HiHat_Long.wav",
             "name": "808 Open HiHat Long",
             "type": 3,
-            "index": 6
+            "index": 6,
+            "id": "d0f8bd90-8d26-47af-8ce6-64548f3d7fba"
         },
         {
             "path": "./HATS/007_909_Open_HiHat.wav",
             "name": "909 Open HiHat",
             "type": 3,
-            "index": 7
+            "index": 7,
+            "id": "4ca698ef-bd56-48f5-bad3-4e0c102c3d78"
         },
         {
             "path": "./HATS/008_909_Closed_HiHat.wav",
             "name": "909 Closed HiHat",
             "type": 3,
-            "index": 8
+            "index": 8,
+            "id": "3e909d09-67e5-4e2e-bbb2-bd97c52b1c9a"
         },
         {
             "path": "./HATS/009_909_Open_HiHat_Short.wav",
             "name": "909 Open HiHat Short",
             "type": 3,
-            "index": 9
+            "index": 9,
+            "id": "baf052d7-c892-4058-afc2-723f188c1951"
         },
         {
             "path": "./HATS/010_909_Closed_HiHat_Short.wav",
             "name": "909 Closed HiHat Short",
             "type": 3,
-            "index": 10
+            "index": 10,
+            "id": "da1e2fb8-e11a-490b-90b8-757d56e58dad"
         },
         {
             "path": "./HATS/011_707_Open_HiHat.wav",
             "name": "707 Open HiHat",
             "type": 3,
-            "index": 11
+            "index": 11,
+            "id": "1b5255da-2d6c-45d0-90d2-280d458e63cc"
         },
         {
             "path": "./HATS/012_707_Closed_HiHat.wav",
             "name": "707 Closed HiHat",
             "type": 3,
-            "index": 12
+            "index": 12,
+            "id": "4727dfa0-798c-4948-b854-5ee96a80db12"
         },
         {
             "path": "./HATS/013_606_Open_HiHat.wav",
             "name": "606 Open HiHat",
             "type": 3,
-            "index": 13
+            "index": 13,
+            "id": "559dc360-c487-4600-b89f-b4b3cb223a05"
         },
         {
             "path": "./HATS/014_606_Closed_HiHat.wav",
             "name": "606 Closed HiHat",
             "type": 3,
-            "index": 14
+            "index": 14,
+            "id": "f6a56964-97e1-41d4-9be1-29d417f3eb2a"
         },
         {
             "path": "./HATS/015_606_Open_HiHat_Long.wav",
             "name": "606 Open HiHat Long",
             "type": 3,
-            "index": 15
+            "index": 15,
+            "id": "e1e89b59-262c-4dbc-8f7b-0cc109c62d9d"
         },
         {
             "path": "./HATS/016_606_Closed_HiHat_Long.wav",
             "name": "606 Closed HiHat Long",
             "type": 3,
-            "index": 16
+            "index": 16,
+            "id": "9c191e77-fe7e-4157-853c-c06e1ad90be1"
         },
         {
             "path": "./HATS/017_808_Crash_Cymbal.wav",
             "name": "808 Crash Cymbal",
             "type": 3,
-            "index": 17
+            "index": 17,
+            "id": "40059199-d1bb-45a6-9438-61f18ea732b0"
         },
         {
             "path": "./HATS/018_808_Crash_Cymbal_Short.wav",
             "name": "808 Crash Cymbal Short",
             "type": 3,
-            "index": 18
+            "index": 18,
+            "id": "16ffb7e8-dd4a-4ac6-8c54-dfb8222f1d46"
         },
         {
             "path": "./HATS/019_808_Crash_Cymbal_Long.wav",
             "name": "808 Crash Cymbal Long",
             "type": 3,
-            "index": 19
+            "index": 19,
+            "id": "4afd09b5-7752-4b53-89d4-1b7182072939"
         },
         {
             "path": "./HATS/020_909_Crash_Cymbal.wav",
             "name": "909 Crash Cymbal",
             "type": 3,
-            "index": 20
+            "index": 20,
+            "id": "518cfbab-4d19-4ce0-9930-d31c1a0f1e4e"
         },
         {
             "path": "./HATS/021_909_Crash_Cymbal_Short.wav",
             "name": "909 Crash Cymbal Short",
             "type": 3,
-            "index": 21
+            "index": 21,
+            "id": "ad55664e-a8bb-4650-a99d-49a05a353ef9"
         },
         {
             "path": "./HATS/022_707_Crash_Cymbal.wav",
             "name": "707 Crash Cymbal",
             "type": 3,
-            "index": 22
+            "index": 22,
+            "id": "b3d3245f-9b15-48e3-95e5-eb3414843219"
         },
         {
             "path": "./HATS/023_707_Crash_Cymbal_Short.wav",
             "name": "707 Crash Cymbal Short",
             "type": 3,
-            "index": 23
+            "index": 23,
+            "id": "a6fe3ba6-ff1d-41ea-9351-a8ea68dc1cda"
         },
         {
             "path": "./HATS/024_606_Cymbal.wav",
             "name": "606 Cymbal",
             "type": 3,
-            "index": 24
+            "index": 24,
+            "id": "bd856d89-c72f-4e50-8729-b8378a779602"
         },
         {
             "path": "./HATS/025_606_Cymbal_Short.wav",
             "name": "606 Cymbal Short",
             "type": 3,
-            "index": 25
+            "index": 25,
+            "id": "e7e033f2-00bf-46e1-a633-5b21ce2821cc"
         },
         {
             "path": "./HATS/026_909_Ride_Cymbal.wav",
             "name": "909 Ride Cymbal",
             "type": 3,
-            "index": 26
+            "index": 26,
+            "id": "a3ec52bc-0c66-4403-b608-95dc70e58fbb"
         },
         {
             "path": "./HATS/027_909_Ride_Cymbal_Short.wav",
             "name": "909 Ride Cymbal Short",
             "type": 3,
-            "index": 27
+            "index": 27,
+            "id": "059ddd44-858c-4857-a9d1-d3f4382c753c"
         },
         {
             "path": "./HATS/028_707_Ride_Cymbal.wav",
             "name": "707 Ride Cymbal",
             "type": 3,
-            "index": 28
+            "index": 28,
+            "id": "e56bb1a8-41a7-4fa7-9d9a-b7a5ecd7a0f7"
         },
         {
             "path": "./HATS/029_707_Ride_Cymbal_Short.wav",
             "name": "707 Ride Cymbal Short",
             "type": 3,
-            "index": 29
+            "index": 29,
+            "id": "b76b8673-7683-4621-a467-16c34e5d5924"
         },
         {
             "path": "./PERC/001_727_Low_Conga.wav",
             "name": "727 Low Conga",
             "type": 4,
-            "index": 1
+            "index": 1,
+            "id": "64a4a100-1244-4dec-a727-7bba5e0b01c6"
         },
         {
             "path": "./PERC/002_727_Open_High_Conga.wav",
             "name": "727 Open High Conga",
             "type": 4,
-            "index": 2
+            "index": 2,
+            "id": "e2a7f79b-91b6-4454-861a-7b4878948425"
         },
         {
             "path": "./PERC/003_727_Mute_High_Conga.wav",
             "name": "727 Mute High Conga",
             "type": 4,
-            "index": 3
+            "index": 3,
+            "id": "b18d3547-6764-4383-a771-f70f7f6437f3"
         },
         {
             "path": "./PERC/004_727_Low_Timbale.wav",
             "name": "727 Low Timbale",
             "type": 4,
-            "index": 4
+            "index": 4,
+            "id": "999c8019-f579-44c1-a753-f956d2a94f02"
         },
         {
             "path": "./PERC/005_727_High_Timbale.wav",
             "name": "727 High Timbale",
             "type": 4,
-            "index": 5
+            "index": 5,
+            "id": "818475fa-c486-4da3-a364-59e8c76cbb14"
         },
         {
             "path": "./PERC/006_727_Low_Bongo.wav",
             "name": "727 Low Bongo",
             "type": 4,
-            "index": 6
+            "index": 6,
+            "id": "29a7b792-55ab-4220-aafd-63f5b3da8685"
         },
         {
             "path": "./PERC/007_727_High_Bongo.wav",
             "name": "727 High Bongo",
             "type": 4,
-            "index": 7
+            "index": 7,
+            "id": "fcc10c07-f042-44f5-bfb9-5a666b9efed9"
         },
         {
             "path": "./PERC/008_808_Rim_Shot.wav",
             "name": "808 Rim Shot",
             "type": 4,
-            "index": 8
+            "index": 8,
+            "id": "4e12de07-f964-4af8-bcc1-8bd7d548e765"
         },
         {
             "path": "./PERC/009_909_Rim_Shot.wav",
             "name": "909 Rim Shot",
             "type": 4,
-            "index": 9
+            "index": 9,
+            "id": "929765cf-9bee-4391-90bc-44e88095b280"
         },
         {
             "path": "./PERC/010_808_Claves_1.wav",
             "name": "808 Claves 1",
             "type": 4,
-            "index": 10
+            "index": 10,
+            "id": "787b0424-0408-4872-9f07-060a34c3c2a1"
         },
         {
             "path": "./PERC/011_808_Claves_2.wav",
             "name": "808 Claves 2",
             "type": 4,
-            "index": 11
+            "index": 11,
+            "id": "b5ca77d2-3b1d-4ab9-9b66-5c479c589f74"
         },
         {
             "path": "./PERC/012_707_Rim_Shot.wav",
             "name": "707 Rim Shot",
             "type": 4,
-            "index": 12
+            "index": 12,
+            "id": "addb3cc4-e93a-4db1-9ddc-0065acf8c935"
         },
         {
             "path": "./PERC/013_707_Rim_Shot_Short.wav",
             "name": "707 Rim Shot Short",
             "type": 4,
-            "index": 13
+            "index": 13,
+            "id": "f3665218-3897-46ec-80ff-959f64693e28"
         },
         {
             "path": "./PERC/014_727_Agogo_Low.wav",
             "name": "727 Agogo Low",
             "type": 4,
-            "index": 14
+            "index": 14,
+            "id": "d01578a6-86f7-4076-95eb-43ee92860b8b"
         },
         {
             "path": "./PERC/015_727_Agogo_Mid.wav",
             "name": "727 Agogo Mid",
             "type": 4,
-            "index": 15
+            "index": 15,
+            "id": "83d6e9cf-08fb-43c2-a3b8-04a01896a730"
         },
         {
             "path": "./PERC/016_727_Agogo_High.wav",
             "name": "727 Agogo High",
             "type": 4,
-            "index": 16
+            "index": 16,
+            "id": "40cda812-7120-43aa-9565-9ad1952afb6d"
         },
         {
             "path": "./PERC/017_808_Hand_Clap.wav",
             "name": "808 Hand Clap",
             "type": 4,
-            "index": 17
+            "index": 17,
+            "id": "0517b73d-2b27-43ac-a619-bccdcd94624e"
         },
         {
             "path": "./PERC/018_808_Hand_Clap_Long.wav",
             "name": "808 Hand Clap Long",
             "type": 4,
-            "index": 18
+            "index": 18,
+            "id": "c061237d-2615-4140-a133-920e64ca3819"
         },
         {
             "path": "./PERC/019_909_Hand_Clap.wav",
             "name": "909 Hand Clap",
             "type": 4,
-            "index": 19
+            "index": 19,
+            "id": "863c9302-b577-4748-99fa-b6ce8c7d24e5"
         },
         {
             "path": "./PERC/020_909_Hand_Clap_Long.wav",
             "name": "909 Hand Clap Long",
             "type": 4,
-            "index": 20
+            "index": 20,
+            "id": "f1316259-f362-4fc2-8998-659174425542"
         },
         {
             "path": "./PERC/021_707_Hand_Clap.wav",
             "name": "707 Hand Clap",
             "type": 4,
-            "index": 21
+            "index": 21,
+            "id": "785faaaa-d9b5-45dd-b855-fac71e1b2511"
         },
         {
             "path": "./PERC/022_808_Noise_Clap.wav",
             "name": "808 Noise Clap",
             "type": 4,
-            "index": 22
+            "index": 22,
+            "id": "a54a3dc8-ceb3-4efd-bb35-1f296941c224"
         },
         {
             "path": "./PERC/023_808_Noise_Clap_Long.wav",
             "name": "808 Noise Clap Long",
             "type": 4,
-            "index": 23
+            "index": 23,
+            "id": "2b8bbac8-53d2-4868-afb3-e98a80d7d221"
         },
         {
             "path": "./PERC/024_808_Finger_Snap.wav",
             "name": "808 Finger Snap",
             "type": 4,
-            "index": 24
+            "index": 24,
+            "id": "129676f0-1dfc-4819-8819-b5b4ff9f0d64"
         },
         {
             "path": "./PERC/025_808_Finger_Snap_Long.wav",
             "name": "808 Finger Snap Long",
             "type": 4,
-            "index": 25
+            "index": 25,
+            "id": "c8ec08cf-59d7-4126-9757-68bf88eb8bc1"
         },
         {
             "path": "./PERC/026_808_Maracas.wav",
             "name": "808 Maracas",
             "type": 4,
-            "index": 26
+            "index": 26,
+            "id": "a211aff7-b9af-4869-9f3d-4888150d5d6b"
         },
         {
             "path": "./PERC/027_808_Maracas_Long.wav",
             "name": "808 Maracas Long",
             "type": 4,
-            "index": 27
+            "index": 27,
+            "id": "cdca685e-1e6c-476a-911f-0d9def9e708d"
         },
         {
             "path": "./PERC/028_727_Cabasa.wav",
             "name": "727 Cabasa",
             "type": 4,
-            "index": 28
+            "index": 28,
+            "id": "319f36c4-36ea-4b8c-950d-5e82c8cd3c66"
         },
         {
             "path": "./PERC/029_727_Short_Whistle.wav",
             "name": "727 Short Whistle",
             "type": 4,
-            "index": 29
+            "index": 29,
+            "id": "5efbcf76-4458-434a-af9a-33ca19b546ab"
         },
         {
             "path": "./PERC/030_727_Long_Whistle.wav",
             "name": "727 Long Whistle",
             "type": 4,
-            "index": 30
+            "index": 30,
+            "id": "7fdb2128-3249-42fe-b31f-83acc05406ba"
         },
         {
             "path": "./PERC/031_727_Quijada.wav",
             "name": "727 Quijada",
             "type": 4,
-            "index": 31
+            "index": 31,
+            "id": "5b80a6d1-e6dd-4d94-8a7f-93e153965826"
         },
         {
             "path": "./PERC/032_727_Quijada_Long.wav",
             "name": "727 Quijada Long",
             "type": 4,
-            "index": 32
+            "index": 32,
+            "id": "dc738761-9570-4d96-af78-fb6fa7cc3d4c"
         },
         {
             "path": "./PERC/033_808_Cowbell.wav",
             "name": "808 Cowbell",
             "type": 4,
-            "index": 33
+            "index": 33,
+            "id": "e1fdf053-2da7-48ab-9137-1e7f284027a3"
         },
         {
             "path": "./PERC/034_808_Cowbell_Long.wav",
             "name": "808 Cowbell Long",
             "type": 4,
-            "index": 34
+            "index": 34,
+            "id": "2012164a-96bb-44ed-91a2-3fc82e04a25a"
         },
         {
             "path": "./PERC/035_727_Star_Chime.wav",
             "name": "727 Star Chime",
             "type": 4,
-            "index": 35
+            "index": 35,
+            "id": "5c88032f-0dc3-4812-90f2-c0517cd6b0a8"
         },
         {
             "path": "./PERC/036_707_Tambourine.wav",
             "name": "707 Tambourine",
             "type": 4,
-            "index": 36
+            "index": 36,
+            "id": "cc451b8e-4584-4bcf-94b3-e0f9c7ceee92"
         }
     ]
 }
